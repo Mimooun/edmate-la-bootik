@@ -1,0 +1,783 @@
+{
+    "formations": [
+        {
+            "id": 1,
+            "name": "INDESIGN ICDL",
+            "description": "Cette formation couvre les bases d'Adobe InDesign, incluant des astuces pratiques pour la conception et la mise en page.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737800818/wnkefs0eit1xjoghwrqw.webp",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Comprendre et personnaliser l'interface dans InDesign",
+                    "description": "Découvrez les bases d'InDesign en personnalisant l'interface à votre convenance.",
+                    "thumbnail": "Comprendre et personnaliser l'interface dans InDesign.jpg",
+                    "url": "Comprendre et personnaliser l'interface dans InDesign.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Comment paramétrer un nouveau document dans InDesign",
+                    "description": "Apprenez à configurer vos nouveaux documents pour bien démarrer vos projets.",
+                    "thumbnail": "Comment paramétrer un nouveau document dans InDesign.jpg",
+                    "url": "Comment paramétrer un nouveau document dans InDesign.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "Comment créer des blocs graphiques dans InDesign",
+                    "description": "Maîtrisez la création et la gestion des blocs graphiques dans vos compositions.",
+                    "thumbnail": "Comment créer des blocs graphiques dans Indesign.jpg",
+                    "url": "Comment créer des blocs graphiques dans Indesign.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "Comment importer et manipuler des images dans InDesign",
+                    "description": "Apprenez à insérer et à ajuster vos images pour des designs percutants.",
+                    "thumbnail": "Comment importer et manipuler des images dans InDesign.jpg",
+                    "url": "Comment importer et manipuler des images dans InDesign.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "Comment manipuler les images dans les blocs dans InDesign",
+                    "description": "Découvrez comment optimiser vos images et les adapter dans des blocs graphiques.",
+                    "thumbnail": "Comment manipuler les images dans les blocs dans InDesign.jpg",
+                    "url": "Comment manipuler les images dans les blocs dans InDesign.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Initiation et perfectionnement à Adobe InDesign",
+                    "type": "pdf",
+                    "size": "123",
+                    "url": "Initiation et perfectionnement à Adobe InDesign.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "indesiger support de cours",
+                    "type": "pdf",
+                    "size": "6652",
+                    "url": "indesiger support de cours.pdf"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Test d'évaluation de français intégration, résidence, nationalité (TEF IRN)",
+            "description": "Une formation spécialisée pour préparer le TEF IRN, axée sur la maîtrise de la langue pour l'intégration, la résidence et la nationalité.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801066/c2vhs9why6bcsiafmfen.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "TEF Expression Orale Section A : 'Meubles à vendre'",
+                    "description": "Améliorez vos compétences en expression orale à travers des dialogues pratiques sur la vente de meubles.",
+                    "thumbnail": "TEF Expression Orale Section A Meubles à vendre.jpg",
+                    "url": "TEF Expression Orale Section A Meubles à vendre.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "TEF Expression Orale Section B : 'Objectif Langues'",
+                    "description": "Entraînez-vous à exprimer vos idées clairement avec des exercices axés sur la pratique du langage.",
+                    "thumbnail": "TEF Expression Orale Section B Objectif Langues.jpg",
+                    "url": "TEF Expression Orale Section B Objectif Langues.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "TEF Expression Orale Section A : 'Appartement en location'",
+                    "description": "Apprenez à parler de locations d'appartements grâce à des scénarios interactifs.",
+                    "thumbnail": "TEF Expression Orale Section A Appartement en location.jpg",
+                    "url": "TEF Expression Orale Section A Appartement en location.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "TEF Expression Orale Section B : 'Québec Circuit'",
+                    "description": "Découvrez comment décrire un circuit touristique avec des exemples liés au Québec.",
+                    "thumbnail": "TEF Expression Orale Section B Québec Circuit.jpg",
+                    "url": "TEF Expression Orale Section B Québec Circuit.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "programme de formation Test d'évaluation de français intégration, résidence, nationalité (TEF IRN)",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "programme de formation Test d'évaluation de français intégration, résidence, nationalité (TEF IRN).pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "TEF-Naturalisation-2020-Description-et-exemples-dépreuves_Copy",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "TEF-Naturalisation-2020-Description-et-exemples-dépreuves_Copy.pdf"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Perfectionnement en français",
+            "description": "Améliorez vos compétences en français avec des exercices avancés de grammaire, de vocabulaire et de conversation.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801181/ombrwbll0ycxt2dlq7gt.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Lesson 1 : Les connecteurs logiques",
+                    "description": "Apprenez à utiliser les connecteurs logiques pour structurer vos idées et renforcer vos arguments.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766938/jlptksomefzcphpgruti.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766938/jlptksomefzcphpgruti.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 2,
+                    "name": "Lesson 2 : Pronoms complément",
+                    "description": "Découvrez comment utiliser les pronoms complément pour éviter les répétitions et améliorer votre discours.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766892/r0ouonq0b1zbv4vhmttn.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766892/r0ouonq0b1zbv4vhmttn.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 3,
+                    "name": "Lesson 3 : Les mots COD et COI",
+                    "description": "Maîtrisez l'utilisation des mots COD et COI pour mieux exprimer vos idées en français.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766612/xomulxfgctqccodgvgn7.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766612/xomulxfgctqccodgvgn7.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 4,
+                    "name": "Lesson 4 : L'impératif présent",
+                    "description": "Apprenez à utiliser l'impératif présent pour donner des ordres, des conseils ou des instructions.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766538/ug43o0mhd6jcf06zozgd.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766538/ug43o0mhd6jcf06zozgd.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 5,
+                    "name": "Lesson 5 : Comment placer les adjectifs",
+                    "description": "Comprenez les règles pour positionner correctement les adjectifs en français.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766361/vert7i8ckjsctexupcyz.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766361/vert7i8ckjsctexupcyz.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 6,
+                    "name": "Lesson 6 : Le subjonctif présent",
+                    "description": "Explorez les usages du subjonctif présent pour exprimer des doutes, des souhaits ou des obligations.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766254/wvwi4ctfpv0myplkfmpq.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766254/wvwi4ctfpv0myplkfmpq.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 7,
+                    "name": "Lesson 7 : Le passé composé",
+                    "description": "Apprenez à former et utiliser le passé composé pour parler d'actions passées.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766177/bh4kdwpzchvsheho4imp.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766177/bh4kdwpzchvsheho4imp.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 8,
+                    "name": "Lesson 8 : L'accord du participe passé",
+                    "description": "Maîtrisez les règles d'accord du participe passé selon le sujet et le contexte.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731766105/ixnzwtp1zcexaeua3qdo.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731766105/ixnzwtp1zcexaeua3qdo.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 9,
+                    "name": "Lesson 9 : Le subjonctif",
+                    "description": "Plongez dans l'apprentissage des règles du subjonctif pour enrichir votre expression.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731765941/zd06ma9w4pytadxqkcsr.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731765941/zd06ma9w4pytadxqkcsr.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 10,
+                    "name": "Lesson 10 : Améliorer l'orthographe",
+                    "description": "Découvrez des astuces et des exercices pour perfectionner votre orthographe.",
+                    "thumbnail": "https://res.cloudinary.com/da2buxzcw/video/upload/so_5,r_10,c_fill,w_1000/v1731765636/ms2twacweqfepwblekvb.jpg",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1731765636/ms2twacweqfepwblekvb.mp4",
+                    "isExterne": true
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "perfectionnement francais",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "perfectionnement francais.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "Communication progressive du francais perfectionnement",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Communication progressive du francais perfectionnement.pdf"
+                },
+                {
+                    "id": 3,
+                    "name": "Grammaire Progressive du Français Niveau Perfectionnement",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Grammaire Progressive du Français Niveau Perfectionnement.pdf"
+                },
+                {
+                    "id": 4,
+                    "name": "Vocabulaire Progressif du Français niveau Perfectionnement",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Vocabulaire Progressif du Français niveau Perfectionnement.pdf"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Fidéliser la clientèle et développer la relation client",
+            "description": "Découvrez des stratégies pour fidéliser vos clients et renforcer la relation client.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801236/wua8oczlzwq9y4zfwy4e.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Sommaire",
+                    "description": "Sommaire",
+                    "thumbnail": "Sommaire.jpg",
+                    "url": "Sommaire.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "La gestion de la relation client : GRC",
+                    "description": "La gestion de la relation client : GRC",
+                    "thumbnail": "La gestion de la relation client GRC.jpg",
+                    "url": "La gestion de la relation client GRC.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "L'outil CRM",
+                    "description": "L'outil CRM",
+                    "thumbnail": "L'outil CRM.jpg",
+                    "url": "L'outil CRM.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "SELLSY",
+                    "description": "SELLSY",
+                    "thumbnail": "SELLSY.jpg",
+                    "url": "SELLSY.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "La gestion des ventes",
+                    "description": "La gestion des ventes",
+                    "thumbnail": "La gestion des ventes.jpg",
+                    "url": "La gestion des ventes.mp4"
+                },
+                {
+                    "id": 6,
+                    "name": "Les méthodes de la relation client",
+                    "description": "Les méthodes de la relation client",
+                    "thumbnail": "Les méthodes de la relation client.jpg",
+                    "url": "Les méthodes de la relation client.mp4"
+                },
+                {
+                    "id": 7,
+                    "name": "Le tableau de bord",
+                    "description": "Le tableau de bord",
+                    "thumbnail": "Le tableau de bord.jpg",
+                    "url": "Le tableau de bord.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Fidéliser la clientèle et développer la relation client",
+                    "type": "pdf",
+                    "size": "81kb",
+                    "url": "Fidéliser la clientèle et développer la relation client.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "Fidéliser la clientèle et développer la relation client - 2",
+                    "type": "pdf",
+                    "size": "177kb",
+                    "url": "Fidéliser la clientèle et développer la relation client - 2.pdf"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Préparation d'une opération de réalisation",
+            "description": "Apprenez les étapes nécessaires à la préparation d'une opération ou d'un projet réussi.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801318/qqy3urm1iqqbuu95scem.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Sommaire",
+                    "description": "Sommaire",
+                    "thumbnail": "Sommaire.jpg",
+                    "url": "Sommaire.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Les 5 étapes de la vente",
+                    "description": "Les 5 étapes de la vente",
+                    "thumbnail": "Les 5 étapes de la vente.jpg",
+                    "url": "Les 5 étapes de la vente.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "La prise de contact",
+                    "description": "La prise de contact",
+                    "thumbnail": "La prise de contact.jpg",
+                    "url": "La prise de contact.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "La découverte d'un client",
+                    "description": "La découverte d'un client",
+                    "thumbnail": "La découverte d'un client.jpg",
+                    "url": "La découverte d'un client.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "La connaissance de nos clients",
+                    "description": "La connaissance de nos clients",
+                    "thumbnail": "La connaissance de nos clients.jpg",
+                    "url": "La connaissance de nos clients.mp4"
+                },
+                {
+                    "id": 6,
+                    "name": "Le feed-back",
+                    "description": "Le feed-back",
+                    "thumbnail": "Le feed-back.jpg",
+                    "url": "Le feed-back.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Préparation d’une opération de réalisation",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Préparation d’une opération de réalisation.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "guide pratique sketchup",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "guide pratique sketchup.pdf"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Suivre les ventes",
+            "description": "Maîtrisez les compétences nécessaires pour suivre et analyser les ventes efficacement.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801359/dmcfnjh445jd9psu6zr3.png",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Sommaire",
+                    "description": "Sommaire",
+                    "thumbnail": "Sommaire.jpg",
+                    "url": "Sommaire.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "La réception de la marchandise",
+                    "description": "La réception de la marchandise",
+                    "thumbnail": "La réception de la marchandise.jpg",
+                    "url": "La réception de la marchandise.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "Accompagner le client et participer à l’attractivité commerciale du rayon ou du point de vente",
+                    "description": "Accompagner le client et participer à l’attractivité commerciale du rayon ou du point de vente",
+                    "thumbnail": "Accompagner le client et participer à l’attractivité commerciale du rayon ou du point de vente.jpg",
+                    "url": "Accompagner le client et participer à l’attractivité commerciale du rayon ou du point de vente.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "Les consignes de travail",
+                    "description": "Les consignes de travail",
+                    "thumbnail": "Les consignes de travail.jpg",
+                    "url": "Les consignes de travail.mp4"
+                },
+                {
+                    "id": 6,
+                    "name": "Cas INFORMATIX (corrigé)",
+                    "description": "Cas INFORMATIX (corrigé)",
+                    "thumbnail": "Cas INFORMATIX (corrigé).jpg",
+                    "url": "Cas INFORMATIX (corrigé).mp4"
+                },
+                {
+                    "id": 7,
+                    "name": "Cas DECATHLON (corrigé)",
+                    "description": "Cas DECATHLON (corrigé)",
+                    "thumbnail": "Cas DECATHLON (corrigé).jpg",
+                    "url": "Cas DECATHLON (corrigé).mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Suivre et analyse les ventes",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Suivre et analyse les ventes.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "COURS ADMINISTRATION ET SUIVI DES VENTES",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "COURS ADMINISTRATION ET SUIVI DES VENTES.pdf"
+                },
+                {
+                    "id": 3,
+                    "name": "GUIDE SUIVIE DES VENTES",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "GUIDE SUIVIE DES VENTES.pdf"
+                },
+                {
+                    "id": 4,
+                    "name": "Sales Management Crossfunctional Process",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Sales Management Crossfunctional Process.pdf"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Conseiller et vendre",
+            "description": "Développez vos compétences en conseil client et en techniques de vente.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801398/cxy6jqx4zfllgysfpl6g.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Sommaire",
+                    "description": "Sommaire",
+                    "thumbnail": "Sommaire.jpg",
+                    "url": "Sommaire.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Avant de conclure",
+                    "description": "Avant de conclure",
+                    "thumbnail": "Avant de conclure.jpg",
+                    "url": "Avant de conclure.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "Le mindset",
+                    "description": "Le mindset",
+                    "thumbnail": "Le mindset.jpg",
+                    "url": "Le mindset.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "Conclure",
+                    "description": "Conclure",
+                    "thumbnail": "Conclure.jpg",
+                    "url": "Conclure.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "Fidélisation",
+                    "description": "Fidélisation",
+                    "thumbnail": "Fidélisation.jpg",
+                    "url": "Fidélisation.mp4"
+                },
+                {
+                    "id": 6,
+                    "name": "partenariat",
+                    "description": "partenariat",
+                    "thumbnail": "partenariat.jpg",
+                    "url": "partenariat.mp4"
+                },
+                {
+                    "id": 7,
+                    "name": "Conforter",
+                    "description": "Conforter",
+                    "thumbnail": "Conforter.jpg",
+                    "url": "Conforter.mp4"
+                },
+                {
+                    "id": 8,
+                    "name": "Les différentes techniques de conclusion",
+                    "description": "Les différentes techniques de conclusion",
+                    "thumbnail": "Les différentes techniques de conclusion.jpg",
+                    "url": "Les différentes techniques de conclusion.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Conseiller et vendre",
+                    "type": "pdf",
+                    "size": "81kb",
+                    "url": "Conseiller et vendre.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "formation-vendeur-livret_etudiants",
+                    "type": "pdf",
+                    "size": "81kb",
+                    "url": "formation-vendeur-livret_etudiants.pdf"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Formateur professionnel d'adultes",
+            "description": "Devenez un formateur professionnel pour adultes avec des techniques pédagogiques efficaces.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801444/zbcepef4sz0f43ttfzdb.png",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Intro",
+                    "description": "",
+                    "thumbnail": "",
+                    "url": "intro.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Chapitre 2",
+                    "description": "Chapitre 2",
+                    "thumbnail": "",
+                    "url": "chap1.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "Chapitre 3",
+                    "description": "Chapitre 3",
+                    "thumbnail": "",
+                    "url": "chap2.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "Chapitre 3",
+                    "description": "Chapitre 3",
+                    "thumbnail": "",
+                    "url": "chap3.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "Chiptre finale",
+                    "description": "Chiptre finale",
+                    "thumbnail": "",
+                    "url": "chapFinal.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Formateur professionnel d'adultes",
+                    "type": "pdf",
+                    "size": "81kb",
+                    "url": "Formateur professionnel d'adultes.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "formateur pour adultes",
+                    "type": "pdf",
+                    "size": "3256kb",
+                    "url": "formateur pour adultes.pdf"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Électricien d'équipement du Bâtiment IRVE (Bornes électriques)",
+            "description": "Spécialisez-vous dans l'installation d'équipements électriques et de bornes de recharge pour véhicules électriques.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801483/nb0weqqmmusazpvpmbpa.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part1",
+                    "description": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part1",
+                    "thumbnail": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part1.jpg",
+                    "url": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part1.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part2",
+                    "description": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part2",
+                    "thumbnail": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part2.jpg",
+                    "url": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part2.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part3",
+                    "description": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part3",
+                    "thumbnail": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part3.jpg",
+                    "url": "Conception Automatisée des Installations Électriques Basse Tension (BT) avec Caneco BT Part3.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "Astuces Pratiques CAneco BT Choix de Régime de neutre TT, TN ou IT",
+                    "description": "Astuces Pratiques CAneco BT Choix de Régime de neutre TT, TN ou IT",
+                    "thumbnail": "Astuces Pratiques CAneco BT Choix de Régime de neutre TT, TN ou IT.jpg",
+                    "url": "Astuces Pratiques CAneco BT Choix de Régime de neutre TT, TN ou IT.mp4"
+                },
+                {
+                    "id": 5,
+                    "name": "Astuces Pratiques CAneco BT - Changement de régime de neutre IT en TN",
+                    "description": "Astuces Pratiques CAneco BT - Changement de régime de neutre IT en TN",
+                    "thumbnail": "Astuces Pratiques CAneco BT - Changement de régime de neutre IT en TN.jpg",
+                    "url": "Astuces Pratiques CAneco BT - Changement de régime de neutre IT en TN.mp4"
+                },
+                {
+                    "id": 6,
+                    "name": "Astuces Pratiques CAneco BT - Calcul complet",
+                    "description": "Astuces Pratiques CAneco BT - Calcul complet",
+                    "thumbnail": "Astuces Pratiques CAneco BT - Calcul complet.jpg",
+                    "url": "Astuces Pratiques CAneco BT - Calcul complet.mp4"
+                },
+                {
+                    "id": 7,
+                    "name": "Qu'est-ce que la sélectivité des installations électriques",
+                    "description": "Qu'est-ce que la sélectivité des installations électriques",
+                    "thumbnail": "Qu'est-ce que la sélectivité des installations électriques.jpg",
+                    "url": "Qu'est-ce que la sélectivité des installations électriques.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "TP Électricien d’Équipement du Bâtiment avec spécialisation IRVE (Installation de bornes de recharge pour véhicules électriques)",
+                    "type": "pdf",
+                    "size": "81kb",
+                    "url": "TP Électricien d’Équipement du Bâtiment avec spécialisation IRVE (Installation de bornes de recharge pour véhicules électriques).pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "TP Electricien d'équipement du Bâtiment IRVE ( Bornes electrique) support de cours",
+                    "type": "pdf",
+                    "size": "81kb",
+                    "url": "TP Electricien d'équipement du Bâtiment IRVE ( Bornes electrique) support de cours.pdf"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "SKETCHUP-ICDL",
+            "description": "Explorez les fonctionnalités de SketchUp pour créer des modèles 3D destinés à des projets de conception et d'architecture.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801516/samiprbymobxwoxsciwt.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Sketchup - Comment créer une villa ou maison (partie 1)",
+                    "description": "Découvrez les bases de Sketchup et apprenez à modéliser une villa ou maison étape par étape dans cette première partie.",
+                    "thumbnail": "Sketchup - Comment créer une villa ou maison (parite1).jpg",
+                    "url": "Sketchup - Comment créer une villa ou maison (parite1).mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "Sketchup - Comment créer une villa ou maison (partie 2)",
+                    "description": "Poursuivez votre apprentissage de Sketchup en approfondissant les techniques de modélisation dans cette deuxième partie.",
+                    "thumbnail": "Sketchup - Comment créer une villa ou maison (parite2).jpg",
+                    "url": "Sketchup - Comment créer une villa ou maison (parite2).mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "Sketchup - Comment créer une villa ou maison (partie 3)",
+                    "description": "Apprenez à ajouter des détails et des finitions à votre modélisation de villa ou maison dans cette troisième partie.",
+                    "thumbnail": "Sketchup - Comment créer une villa ou maison (parite3).jpg",
+                    "url": "Sketchup - Comment créer une villa ou maison (parite3).mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "Sketchup - Comment créer une villa ou maison (partie 4)",
+                    "description": "Finalisez votre projet de modélisation en maîtrisant les derniers ajustements et rendus dans cette quatrième partie.",
+                    "thumbnail": "Sketchup - Comment créer une villa ou maison (parite4).jpg",
+                    "url": "Sketchup - Comment créer une villa ou maison (parite4).mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Initiation et perfectionnement à SketchUp",
+                    "type": "pdf",
+                    "size": "85kb",
+                    "url": "Initiation et perfectionnement à SketchUp.pdf"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "POWERPOINT-ICDL",
+            "description": "Apprenez à créer des présentations percutantes avec Microsoft PowerPoint et obtenez la certification ICDL.",
+            "categoryName": "Indesign",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dynixlyqv/image/upload/v1737801553/t93gcoxlz3g8g1mipqeo.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "FORMATION POWERPOINT - leçon 1 Comprendre l'interface d'accueil",
+                    "description": "Familiarisez-vous avec l'interface d'accueil de PowerPoint pour mieux naviguer et optimiser votre expérience utilisateur.",
+                    "thumbnail": "FORMATION POWERPOINT - leçon 1 Comprendre l'interface d'accueil.jpg",
+                    "url": "FORMATION POWERPOINT - leçon 1 Comprendre l'interface d'accueil.mp4"
+                },
+                {
+                    "id": 2,
+                    "name": "FORMATION POWERPOINT - leçon 2 Comment Créer une nouvelle présentation",
+                    "description": "Apprenez à créer une nouvelle présentation PowerPoint et découvrez les options essentielles pour bien débuter.",
+                    "thumbnail": "FORMATION POWERPOINT - leçon 2 Comment Créer une nouvelle présentation.jpg",
+                    "url": "FORMATION POWERPOINT - leçon 2 Comment Créer une nouvelle présentation.mp4"
+                },
+                {
+                    "id": 3,
+                    "name": "FORMATION POWERPOINT - leçon 3 Comment Enregistrer son diaporama",
+                    "description": "Découvrez comment enregistrer correctement votre diaporama afin de conserver votre travail en toute sécurité.",
+                    "thumbnail": "FORMATION POWERPOINT - leçon 3 Comment Enregistrer son diaporama.jpg",
+                    "url": "FORMATION POWERPOINT - leçon 3 Comment Enregistrer son diaporama.mp4"
+                },
+                {
+                    "id": 4,
+                    "name": "FORMATION POWERPOINT - leçon 4 Comment gérer le texte",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "thumbnail": "FORMATION POWERPOINT - leçon 4 Comment gérer le texte.jpg",
+                    "url": "FORMATION POWERPOINT - leçon 4 Comment gérer le texte.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Maîtriser Microsoft PowerPoint",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Maîtriser Microsoft PowerPoint.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "INITIATION POWERPOINT",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "INITIATION POWERPOINT.pdf"
+                }
+            ]
+        }
+    ]
+}
