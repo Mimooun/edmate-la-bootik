@@ -735,7 +735,7 @@
             "courses": [
                 {
                     "id": 1,
-                    "name": "FORMATION POWERPOINT - leçon 1 Comprendre l'interface d'accueil",
+                    "name": "POINT - leçon 1 Comprendre l'interface d'accueil",
                     "description": "Familiarisez-vous avec l'interface d'accueil de PowerPoint pour mieux naviguer et optimiser votre expérience utilisateur.",
                     "thumbnail": "FORMATION POWERPOINT - leçon 1 Comprendre l'interface d'accueil.jpg",
                     "url": "FORMATION POWERPOINT - leçon 1 Comprendre l'interface d'accueil.mp4"
@@ -760,6 +760,268 @@
                     "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
                     "thumbnail": "FORMATION POWERPOINT - leçon 4 Comment gérer le texte.jpg",
                     "url": "FORMATION POWERPOINT - leçon 4 Comment gérer le texte.mp4"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Maîtriser Microsoft PowerPoint",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Maîtriser Microsoft PowerPoint.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "INITIATION POWERPOINT",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "INITIATION POWERPOINT.pdf"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "CCP1 INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
+            "categoryName": "INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Présentation",
+                    "description": "Formation Réparation de Smartphone - Niveau 1 - Présentations.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676104/g8fdfoqopvk9hsratoa8.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 2,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Lexique",
+                    "description": "Apprenez à créer une nouvelle présentation PowerPoint et découvrez les options essentielles pour bien débuter.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676150/56467ff1a1b2265f6aff111f052fc593.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 3,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les pièces détachées",
+                    "description": "Découvrez comment enregistrer correctement votre diaporama afin de conserver votre travail en toute sécurité.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676202/btteb3owh5xjpsuslf5x.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 4,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les outils",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676251/wcjbhkzkgpkf5gwjvunp.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 5,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les causes de pannes",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676328/uadma9rzfkyu9dyepivg.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 6,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Le diagnostic",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676375/epxilwwmfdxw2txlq4kf.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 7,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone x et montage",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676452/hs6cerzfx9hngiqpgk6o.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 8,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone 8+ et montage",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676547/yafujepr4ow5uznzar8d.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 9,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement de la batterie iphone 6 et montage",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676649/jsy7qlvh2vfrjvnmfxf7.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 10,
+                    "name": "Formation Réparation de tablette et d'ordinateur - Niveau 2 - Changement d'écran IPad pro 12.9",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676853/rsbtg9y07eabxxtomnln.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 11,
+                    "name": "Démontage et montage complet android 1er procédure",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677100/ln87o040apyl821i0iui.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 12,
+                    "name": "Formater une clé usb - disque dur",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677194/89d6707ee02b6f519af17805a0790823.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 13,
+                    "name": "Installer une application",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677387/85f5ba48c88c7b9e22f5b9a4ccbfccfb.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 14,
+                    "name": "désinstaller une application",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677422/433ec9bbbf4424e33aac0380650fb476.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 15,
+                    "name": "Formation Réparation d'ordinateur - FORMATAGE WINDOWS 10",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677530/hsiwegwldvtqas57fyp0.mp4",
+                    "isExterne": true
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Maîtriser Microsoft PowerPoint",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Maîtriser Microsoft PowerPoint.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "INITIATION POWERPOINT",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "INITIATION POWERPOINT.pdf"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "CCP2 INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
+            "categoryName": "INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598379/2bedd065c4df6ae197e3bc0a12de2fbc.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Présentation",
+                    "description": "Formation Réparation de Smartphone - Niveau 1 - Présentations.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676104/g8fdfoqopvk9hsratoa8.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 2,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Lexique",
+                    "description": "Apprenez à créer une nouvelle présentation PowerPoint et découvrez les options essentielles pour bien débuter.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676150/56467ff1a1b2265f6aff111f052fc593.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 3,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les pièces détachées",
+                    "description": "Découvrez comment enregistrer correctement votre diaporama afin de conserver votre travail en toute sécurité.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676202/btteb3owh5xjpsuslf5x.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 4,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les outils",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676251/wcjbhkzkgpkf5gwjvunp.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 5,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les causes de pannes",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676328/uadma9rzfkyu9dyepivg.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 6,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Le diagnostic",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676375/epxilwwmfdxw2txlq4kf.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 7,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone x et montage",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676452/hs6cerzfx9hngiqpgk6o.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 8,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone 8+ et montage",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676547/yafujepr4ow5uznzar8d.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 9,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement de la batterie iphone 6 et montage",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676649/jsy7qlvh2vfrjvnmfxf7.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 10,
+                    "name": "Formation Réparation de tablette et d'ordinateur - Niveau 2 - Changement d'écran IPad pro 12.9",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676853/rsbtg9y07eabxxtomnln.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 11,
+                    "name": "Démontage et montage complet android 1er procédure",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677100/ln87o040apyl821i0iui.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 12,
+                    "name": "Formater une clé usb - disque dur",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677194/89d6707ee02b6f519af17805a0790823.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 13,
+                    "name": "Installer une application",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677387/85f5ba48c88c7b9e22f5b9a4ccbfccfb.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 14,
+                    "name": "désinstaller une application",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677422/433ec9bbbf4424e33aac0380650fb476.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 15,
+                    "name": "Formation Réparation d'ordinateur - FORMATAGE WINDOWS 10",
+                    "description": "Apprenez à manipuler et gérer le texte dans vos diapositives pour des présentations claires et professionnelles.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677530/hsiwegwldvtqas57fyp0.mp4",
+                    "isExterne": true
                 }
             ],
             "resources": [
