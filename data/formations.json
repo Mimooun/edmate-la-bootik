@@ -779,6 +779,11 @@
                 }
             ]
         },
+
+
+
+
+
         {
             "id": 12,
             "name": "CCP1 INSTALLATEUR DEPANNEUR INFORMATIQUE",
@@ -835,7 +840,33 @@
                     "description": "Le changement d’écran sur un iPhone X nécessite précision et méthodologie. Avant toute intervention, il est essentiel d’éteindre le téléphone et de retirer les deux vis Pentalobe situées près du port de charge. L’ouverture de l’appareil se fait en chauffant légèrement les bords de l’écran à l’aide d’un pistolet à air chaud pour ramollir l’adhésif, puis en utilisant une ventouse et des médiators pour séparer délicatement l’écran du châssis. Une fois l’écran soulevé, il faut déconnecter la batterie en retirant les vis du cache métallique protégeant le connecteur, puis débrancher les nappes de l’écran et du capteur Face ID. Le module Face ID, comprenant la caméra infrarouge et le capteur de proximité, doit être récupéré et transféré sur le nouvel écran, car il est unique à chaque appareil. Après avoir installé le module sur le nouvel écran, les nappes de l’écran, du tactile et de la batterie doivent être reconnectées avant de fixer les protections métalliques. Il est recommandé de tester l’affichage et le tactile avant de refermer complètement l’appareil. Une fois le test validé, l’écran peut être repositionné et pressé fermement pour adhérer au châssis. Enfin, les vis Pentalobe doivent être remises en place pour assurer la fermeture complète du téléphone. L’utilisation d’un écran de qualité et le respect des étapes garantissent un fonctionnement optimal du smartphone après la réparation.",
                     "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676452/hs6cerzfx9hngiqpgk6o.mp4",
                     "isExterne": true
+                }   
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Maîtriser Microsoft PowerPoint",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Maîtriser Microsoft PowerPoint.pdf"
                 },
+                {
+                    "id": 2,
+                    "name": "INITIATION POWERPOINT",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "INITIATION POWERPOINT.pdf"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "CCP2 INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
+            "categoryName": "INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+            "courses": [
                 {
                     "id": 8,
                     "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone 8+ et montage",
@@ -908,15 +939,21 @@
                     "size": "83kb",
                     "url": "INITIATION POWERPOINT.pdf"
                 }
-            ]
+            ]  
         },
+
+
+
+
+
+
         {
-            "id": 13,
-            "name": "CCP2 INSTALLATEUR DEPANNEUR INFORMATIQUE",
-            "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
-            "categoryName": "INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "id": 14,
+            "name": "TP INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "description": "Le TP Installateur Dépanneur Informatique est une formation professionnelle visant à former des techniciens capables d'installer, configurer, maintenir et dépanner des équipements informatiques pour des particuliers et des entreprises. Ce TP (Titre Professionnel) permet d’acquérir les compétences techniques et méthodologiques nécessaires pour intervenir efficacement sur du matériel et des logiciels informatiques.",
+            "categoryName": "TP INSTALLATEUR DEPANNEUR INFORMATIQUe",
             "categoryId": 3,
-            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+            "imageUrl": "https://res.cloudinary.com/dogg78xxl/image/upload/v1738856702/maintenance-informatique_muucvp.jpg",
             "courses": [
                 {
                     "id": 1,
@@ -1039,7 +1076,144 @@
                     "size": "83kb",
                     "url": "INITIATION POWERPOINT.pdf"
                 }
-            ]
+            ]  
+        },
+
+
+
+
+
+
+        {
+            "id": 15,
+            "name": "TP Agent de reconditionnement numérique",
+            "description": "Le TP Agent de Reconditionnement Numérique forme des professionnels capables de récupérer, diagnostiquer, remettre en état et recycler des équipements informatiques et numériques (PC, smartphones, tablettes, imprimantes, etc.). Ce métier s’inscrit dans une démarche écoresponsable visant à prolonger la durée de vie des matériels et à limiter les déchets électroniques.",
+            "categoryName": "TP Agent de reconditionnement numérique",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/dogg78xxl/image/upload/v1738856789/image_scw447.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Présentation",
+                    "description": "La formation réparation de smartphone niveau 1 est conçue pour permettre aux débutants d’acquérir les bases essentielles de la réparation de téléphones mobiles. Elle combine théorie et pratique pour donner aux participants les compétences nécessaires afin de diagnostiquer et résoudre les pannes courantes. Les apprenants découvrent le fonctionnement des smartphones, les composants internes et les outils indispensables à la réparation. Ils apprennent à identifier les pannes matérielles et logicielles, à démonter et remonter un téléphone en toute sécurité, à remplacer des pièces comme l’écran, la batterie ou le connecteur de charge et à effectuer des tests de bon fonctionnement après réparation. Cette formation met l’accent sur les bonnes pratiques pour éviter d’endommager les composants sensibles et garantir des réparations durables. Elle est adaptée aux personnes souhaitant se lancer dans la réparation mobile ou simplement acquérir des compétences techniques pour un usage personnel ou professionnel.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676104/g8fdfoqopvk9hsratoa8.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 2,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Lexique",
+                    "description": "Afficheur élément d’affichage d’un smartphone comprenant la dalle LCD ou OLED et parfois la vitre tactile Amperage unité de mesure de l’intensité du courant électrique Batterie Li-ion ou Li-Po type de batterie rechargeable utilisée dans les smartphones Bloc écran ensemble comprenant la dalle LCD ou OLED et la vitre tactile parfois avec le châssis Carte mère circuit imprimé principal contenant le processeur la mémoire et d’autres composants essentiels Chargeur dispositif permettant d’alimenter et de recharger la batterie Connecteur de charge port permettant de brancher le chargeur et de transférer des données via USB Désoxydation processus de nettoyage des composants électroniques en cas de contact avec un liquide Dissipateur thermique élément permettant de dissiper la chaleur générée par les composants Écran LCD ou OLED technologie d’affichage utilisée pour les écrans de smartphone EEPROM mémoire programmable contenant des données essentielles au fonctionnement du téléphone Flex ou nappe câble plat souple reliant divers composants électroniques Firmware logiciel interne d’un appareil électronique permettant son bon fonctionnement GPS système de positionnement utilisé pour la localisation Gorilla Glass type de verre renforcé utilisé pour la protection des écrans Haut-parleur composant permettant la sortie audio Hot Air outil utilisé pour dessouder ou souder des composants électroniques IC circuit intégré contenant plusieurs composants électroniques miniaturisés IMEI numéro unique d’identification d’un smartphone LCD technologie d’affichage basée sur des cristaux liquides Loop Disease problème matériel causant des redémarrages en boucle sur certains modèles de téléphone Microphone composant permettant l'enregistrement du son Multimètre outil de mesure utilisé pour tester les composants électroniques NFC technologie permettant la communication à courte distance souvent utilisée pour les paiements mobiles Nappe connecteur flexible reliant des composants internes OLED technologie d’écran offrant un meilleur contraste et une meilleure consommation énergétique PCB carte électronique où sont soudés les composants du smartphone Processeur composant central assurant le traitement des données Résistance composant électronique limitant le courant électrique dans un circuit Récepteur d’antenne composant permettant la réception des signaux réseau Soudure processus d’assemblage de composants électroniques via l’application de métal en fusion Speaker haut-parleur interne utilisé pour l'écoute des appels Tactile surface réactive au toucher permettant l’interaction avec l’interface Test Point point de contact utilisé pour forcer un smartphone en mode de récupération ou diagnostic USB port de connexion utilisé pour le transfert de données et la recharge Vitre tactile couche transparente permettant la détection du toucher sur un écran Vibration moteur composant générant les vibrations du téléphone Watt unité de puissance électrique ZIF type de connecteur utilisé pour fixer des nappes de connexion sur la carte mère",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676150/56467ff1a1b2265f6aff111f052fc593.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 3,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les pièces détachées",
+                    "description": "Les pièces détachées sont essentielles pour la réparation des smartphones et varient selon les modèles et les marques. L’écran est l’un des composants les plus souvent remplacés, il peut être composé d’un bloc écran intégrant la vitre tactile et l’afficheur LCD ou OLED. La batterie est une autre pièce courante à changer, elle peut perdre en autonomie avec le temps ou gonfler à cause d’un dysfonctionnement. Le connecteur de charge est souvent sujet à l’usure ou aux dommages causés par des câbles inadaptés, ce qui entraîne des problèmes de recharge. Les boutons physiques comme le bouton d’alimentation, les boutons de volume ou le bouton Home peuvent devenir défectueux à cause d’un encrassement ou d’un faux contact. Les haut-parleurs et les microphones peuvent être endommagés par la poussière, l’humidité ou une surutilisation, provoquant une baisse de la qualité audio. Les caméras avant et arrière peuvent nécessiter un remplacement en cas de panne électronique ou après un choc affectant la mise au point ou l’affichage des images. Les nappes flexibles reliant les différents composants internes peuvent se détériorer avec le temps ou après une mauvaise manipulation lors d’un démontage. La carte mère qui regroupe les principaux circuits et processeurs du smartphone est plus difficile à remplacer et nécessite des interventions spécifiques comme la micro-soudure en cas de panne. Les châssis et coques arrière sont aussi des éléments remplaçables en cas de fissure ou de détérioration, notamment pour préserver l’intégrité du smartphone. L’utilisation de pièces détachées de qualité est essentielle pour assurer une réparation durable et éviter d’autres problèmes techniques.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676202/btteb3owh5xjpsuslf5x.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 4,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les outils",
+                    "description": "Pour effectuer des réparations sur un smartphone, il est essentiel de disposer des bons outils. Parmi les outils de base, on retrouve les tournevis de précision, indispensables pour démonter les vis spécifiques des smartphones (Torx, Phillips, Pentalobe, Tri-wing, etc.), ainsi que les médiators et spatules en plastique, qui permettent de séparer délicatement les éléments du téléphone sans les endommager. La ventouse d’extraction est également utile pour retirer les écrans sans exercer trop de pression. D’autres outils facilitent la manipulation des composants, comme la pince à épiler antistatique, utilisée pour manipuler les petites pièces avec précision, et l’outil d’éjection SIM, qui permet de retirer le tiroir de la carte SIM et SD. Pour la réparation et la soudure, un fer à souder ainsi qu’une station de soudure sont nécessaires pour remplacer ou fixer des composants électroniques sur la carte mère. L’utilisation de pâte à souder et de flux facilite les soudures et améliore leur qualité. Un pistolet à air chaud (Heat Gun) est aussi employé pour dessouder ou souder certains composants délicats. Les outils de diagnostic, comme le multimètre, permettent de mesurer les tensions et vérifier la continuité des circuits électroniques. Un testeur de batterie est parfois utilisé pour vérifier l’état de charge d’une batterie suspecte. Enfin, l’alcool isopropylique est un élément clé pour nettoyer les composants et éliminer les résidus de soudure ou les traces d’oxydation après un contact avec un liquide. Avoir ces outils bien organisés et en bon état est primordial pour garantir des réparations efficaces et éviter d’endommager encore plus l’appareil lors de l’intervention.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676251/wcjbhkzkgpkf5gwjvunp.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 5,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Les causes de pannes",
+                    "description": "Les pannes des smartphones peuvent être causées par plusieurs facteurs. Les chocs et les chutes sont parmi les principales causes de dommages physiques, entraînant des écrans fissurés, des connecteurs endommagés ou des composants internes déplacés. L’exposition à l’eau ou à l’humidité provoque l’oxydation des circuits et des courts-circuits pouvant rendre l’appareil inutilisable. Une surchauffe excessive, due à une utilisation intensive ou à un problème de dissipation thermique, peut endommager la carte mère et les composants électroniques. Les problèmes de batterie sont également fréquents, causés par une usure naturelle, une surcharge ou l’utilisation de chargeurs non adaptés, entraînant une perte d’autonomie ou une batterie gonflée. Les dysfonctionnements logiciels peuvent résulter d’une mise à jour mal installée, d’un virus ou d’un stockage saturé, rendant le système instable ou empêchant le téléphone de démarrer. Des pannes au niveau des composants comme le connecteur de charge, les boutons, le haut-parleur ou le microphone peuvent survenir à cause de l’usure ou de la poussière accumulée. Un mauvais entretien général, comme l’utilisation de câbles endommagés ou le stockage du smartphone dans un environnement inadapté, accélère également l’usure et les défaillances des composants internes. Identifier correctement la cause de la panne permet d’effectuer une réparation ciblée et efficace.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676328/uadma9rzfkyu9dyepivg.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 6,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Le diagnostic",
+                    "description": "Le diagnostic est une étape essentielle dans la réparation d’un smartphone. Il permet d’identifier la cause du problème avant toute intervention. La première phase consiste en une observation visuelle pour détecter d’éventuels signes évidents de dommage comme un écran fissuré, une batterie gonflée ou des traces d’oxydation. Ensuite, des tests fonctionnels sont réalisés pour vérifier si le téléphone s’allume, si l’écran affiche correctement, si le tactile répond, si le son fonctionne et si le smartphone reconnaît la charge. L’utilisation d’outils de diagnostic comme le multimètre permet de mesurer la tension de la batterie, la continuité des circuits et l’état des composants électroniques. Lorsque le problème est logiciel, un redémarrage forcé, une réinitialisation ou une restauration via un logiciel comme iTunes ou un outil de flashage peut être nécessaire. En cas de problème matériel plus complexe, l’ouverture du smartphone permet d’examiner la carte mère et les connecteurs internes afin de détecter une éventuelle panne au niveau des nappes, des soudures ou des circuits intégrés. Un test croisé avec des pièces fonctionnelles peut également être effectué pour confirmer le composant défectueux. Un bon diagnostic est crucial pour éviter des réparations inutiles et assurer un dépannage efficace du smartphone.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676375/epxilwwmfdxw2txlq4kf.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 7,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone x et montage",
+                    "description": "Le changement d’écran sur un iPhone X nécessite précision et méthodologie. Avant toute intervention, il est essentiel d’éteindre le téléphone et de retirer les deux vis Pentalobe situées près du port de charge. L’ouverture de l’appareil se fait en chauffant légèrement les bords de l’écran à l’aide d’un pistolet à air chaud pour ramollir l’adhésif, puis en utilisant une ventouse et des médiators pour séparer délicatement l’écran du châssis. Une fois l’écran soulevé, il faut déconnecter la batterie en retirant les vis du cache métallique protégeant le connecteur, puis débrancher les nappes de l’écran et du capteur Face ID. Le module Face ID, comprenant la caméra infrarouge et le capteur de proximité, doit être récupéré et transféré sur le nouvel écran, car il est unique à chaque appareil. Après avoir installé le module sur le nouvel écran, les nappes de l’écran, du tactile et de la batterie doivent être reconnectées avant de fixer les protections métalliques. Il est recommandé de tester l’affichage et le tactile avant de refermer complètement l’appareil. Une fois le test validé, l’écran peut être repositionné et pressé fermement pour adhérer au châssis. Enfin, les vis Pentalobe doivent être remises en place pour assurer la fermeture complète du téléphone. L’utilisation d’un écran de qualité et le respect des étapes garantissent un fonctionnement optimal du smartphone après la réparation.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676452/hs6cerzfx9hngiqpgk6o.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 8,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement d'écran iphone 8+ et montage",
+                    "description": "Le changement d’écran sur un iPhone 8 Plus commence par l’extinction du téléphone et le retrait des deux vis Pentalobe situées de part et d’autre du port de charge. Il est nécessaire de chauffer légèrement les bords de l’écran avec un pistolet à air chaud pour ramollir l’adhésif, puis d’utiliser une ventouse et un médiator pour soulever délicatement l’écran en le pivotant vers la droite comme un livre. Une fois ouvert, il faut retirer les vis du cache métallique protégeant les connecteurs et déconnecter la batterie avant de débrancher les nappes de l’écran. Ensuite, il est important de démonter le bouton Home, l’écouteur interne et la caméra frontale, ainsi que la plaque métallique de protection fixée au dos de l’écran, afin de les transférer sur le nouvel écran. Après avoir repositionné ces éléments sur l’écran de remplacement, les nappes doivent être reconnectées en commençant par la batterie, puis en replaçant le cache métallique de protection. Un test de l’écran est recommandé avant de refermer complètement l’appareil. Une fois le test validé, l’écran doit être repositionné soigneusement en clipsant d’abord la partie supérieure avant d’exercer une légère pression sur les bords pour assurer l’adhérence. Enfin, les deux vis Pentalobe doivent être remises en place pour finaliser le montage. Il est essentiel de manipuler chaque composant avec précaution afin d’éviter d’endommager les nappes ou les connecteurs, garantissant ainsi une réparation réussie et un fonctionnement optimal du smartphone.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676547/yafujepr4ow5uznzar8d.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 9,
+                    "name": "Formation Réparation de Smartphone - Niveau 1 - Changement de la batterie iphone 6 et montage",
+                    "description": "Le changement de la batterie sur un iPhone 6 commence par l’extinction du téléphone et le retrait des deux vis Pentalobe situées près du port de charge. L’ouverture se fait en chauffant légèrement les bords du téléphone avec un pistolet à air chaud pour ramollir l’adhésif, puis en utilisant une ventouse et un médiator pour soulever délicatement l’écran sans l’ouvrir complètement. Il faut ensuite retirer les vis du cache métallique protégeant les connecteurs et déconnecter la batterie avant de débrancher les nappes de l’écran pour éviter tout court-circuit. Une fois l’écran déconnecté, la batterie est maintenue par des bandes adhésives situées en dessous. Il est nécessaire de tirer lentement et en continu sur ces bandes pour les retirer sans les casser. Si elles se déchirent, il faudra chauffer légèrement la batterie et la soulever délicatement avec une spatule en plastique en prenant soin de ne pas la percer. Une fois l’ancienne batterie retirée, la nouvelle doit être positionnée en veillant à bien fixer les nouvelles bandes adhésives. La batterie est ensuite reconnectée avant de rebrancher les nappes de l’écran et de replacer le cache métallique protégeant les connecteurs. Il est conseillé de tester l’allumage du téléphone avant de refermer définitivement l’appareil. Après validation du bon fonctionnement, l’écran doit être reclipsé en commençant par la partie supérieure avant d’exercer une légère pression sur les bords pour assurer l’adhérence. Enfin, les deux vis Pentalobe sont remises en place pour finaliser le montage. Une fois la réparation terminée, il est recommandé de calibrer la nouvelle batterie en la chargeant à 100 % puis en la laissant se décharger complètement avant une recharge complète, afin d’optimiser sa durée de vie.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676649/jsy7qlvh2vfrjvnmfxf7.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 10,
+                    "name": "Formation Réparation de tablette et d'ordinateur - Niveau 2 - Changement d'écran IPad pro 12.9",
+                    "description": "Le changement d’écran sur un iPad Pro 12.9 nécessite de commencer par l’extinction de l’appareil et de chauffer les bords de l’écran avec un pistolet à air chaud pour ramollir l’adhésif. L’ouverture se fait en insérant un médiator sous la vitre et en le faisant glisser délicatement le long des bords pour séparer l’écran du châssis sans abîmer les nappes internes. Une fois l’écran légèrement soulevé, il faut retirer les vis des caches métalliques protégeant les nappes de connexion et débrancher la batterie avant de déconnecter l’écran. Ensuite, les composants à transférer, comme la caméra frontale et le capteur Face ID, doivent être soigneusement démontés et repositionnés sur le nouvel écran. Après avoir fixé ces éléments, la batterie est reconnectée en dernier pour éviter tout court-circuit. Il est recommandé de tester l’écran avant de refermer l’appareil afin de s’assurer du bon fonctionnement de l’affichage et du tactile. Une fois le test validé, l’écran est repositionné et pressé délicatement pour assurer l’adhérence de l’adhésif. Pour finaliser la réparation, il est conseillé de chauffer légèrement les bords afin de réactiver la colle et garantir une bonne fixation. Après le montage, il est important de vérifier que toutes les fonctionnalités, notamment le Face ID et le tactile, fonctionnent correctement avant de rendre l’appareil au client.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738676853/rsbtg9y07eabxxtomnln.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 11,
+                    "name": "Démontage et montage complet android 1er procédure",
+                    "description": "Le démontage et le montage complet d’un smartphone Android commencent par l’extinction de l’appareil et le retrait du tiroir SIM. Si la coque arrière est amovible, elle doit être retirée en soulevant délicatement les bords avec une spatule en plastique. Pour les modèles avec une coque collée, il faut chauffer légèrement les bords avec un pistolet à air chaud et insérer un médiator pour décoller la vitre arrière sans l’endommager. Une fois la coque retirée, les vis de fixation de la plaque de protection des connecteurs doivent être dévissées avant de déconnecter la batterie pour éviter tout court-circuit. Ensuite, il faut déconnecter les nappes reliant l’écran, la carte mère et les autres composants comme le capteur d’empreinte, la caméra ou les haut-parleurs. Si l’écran doit être remplacé, il est nécessaire de chauffer légèrement les bords pour ramollir l’adhésif et l’extraire avec précaution. Pour retirer complètement la carte mère, il faut déconnecter les antennes, la nappe de charge et les autres connecteurs. Lors du remontage, la carte mère est repositionnée en premier, suivie du reconnectage des nappes et des composants. La batterie est reconnectée en dernier après s’être assuré que toutes les connexions sont bien en place. L’écran ou la coque arrière est ensuite fixé à l’aide d’un nouvel adhésif, et les vis sont remises en place. Avant de refermer complètement l’appareil, il est recommandé de tester le bon fonctionnement de l’écran, des boutons, du réseau et des autres fonctionnalités. Une fois le test validé, la coque est refermée et pressée pour assurer une bonne adhérence, finalisant ainsi le montage du smartphone Android.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677100/ln87o040apyl821i0iui.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 12,
+                    "name": "Formater une clé usb - disque dur",
+                    "description": "Pour formater une clé USB ou un disque dur, il faut d’abord le connecter à un ordinateur. Sur Windows, ouvrir l’Explorateur de fichiers, faire un clic droit sur le périphérique concerné, puis sélectionner Formater. Une fenêtre s’ouvre avec plusieurs options comme le système de fichiers FAT32, exFAT ou NTFS, la taille d’allocation et le formatage rapide. Choisir FAT32 pour une compatibilité maximale, exFAT pour les fichiers de grande taille ou NTFS pour une utilisation optimisée sous Windows. Cocher ou décocher l’option Formatage rapide selon le besoin, puis cliquer sur Démarrer et confirmer l’opération. Sur macOS, ouvrir Utilitaire de disque, sélectionner le périphérique, cliquer sur Effacer, choisir un format comme APFS, Mac OS étendu ou exFAT pour la compatibilité avec Windows, puis valider l’opération. Une fois le formatage terminé, le périphérique est prêt à l’emploi. En cas d’erreur, s’assurer que le disque n’est pas protégé en écriture ou utiliser un outil comme diskpart sous Windows pour forcer le formatage en supprimant toutes les partitions existantes avant d’en créer une nouvelle. Toujours sauvegarder les données importantes avant de formater, car l’opération est irréversible.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677194/89d6707ee02b6f519af17805a0790823.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 13,
+                    "name": "Installer une application",
+                    "description": "Pour installer une application sur un smartphone Android, ouvrir le Play Store, rechercher l’application souhaitée dans la barre de recherche, puis appuyer sur Installer et attendre la fin du téléchargement et de l’installation avant d’ouvrir l’application. Sur un iPhone, ouvrir l’App Store, rechercher l’application, appuyer sur Obtenir ou sur le bouton de téléchargement et attendre la fin du processus. Pour installer une application à partir d’un fichier APK sur Android, activer les sources inconnues dans les paramètres de sécurité, télécharger le fichier APK, puis l’ouvrir et suivre les instructions d’installation. Sur un ordinateur Windows, télécharger le fichier d’installation depuis le site officiel ou le Microsoft Store, exécuter le fichier et suivre les instructions affichées à l’écran. Sur macOS, télécharger l’application depuis l’App Store ou un site officiel, ouvrir le fichier DMG et faire glisser l’application dans le dossier Applications. Toujours vérifier la source de l’application pour éviter les logiciels malveillants et s’assurer que l’appareil dispose de suffisamment d’espace de stockage avant l’installation.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677387/85f5ba48c88c7b9e22f5b9a4ccbfccfb.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 14,
+                    "name": "désinstaller une application",
+                    "description": "Pour désinstaller une application sur un smartphone Android, ouvrir les paramètres, aller dans applications, sélectionner l’application à supprimer, appuyer sur désinstaller et confirmer l’action. Une autre méthode consiste à maintenir l’icône de l’application sur l’écran d’accueil, puis sélectionner désinstaller ou faire glisser l’icône vers la corbeille. Sur un iPhone, maintenir l’icône de l’application jusqu’à ce qu’elle commence à trembler, appuyer sur le bouton supprimer et confirmer la suppression. Pour désinstaller une application sur un ordinateur Windows, ouvrir le panneau de configuration, aller dans programmes et fonctionnalités, sélectionner l’application et cliquer sur désinstaller en suivant les instructions affichées à l’écran. Une autre méthode consiste à utiliser les paramètres Windows, accéder à applications, sélectionner l’application et appuyer sur désinstaller. Sur macOS, ouvrir le dossier applications, faire glisser l’application vers la corbeille, puis vider la corbeille pour finaliser la suppression. Certaines applications laissent des fichiers résiduels qui peuvent être supprimés manuellement ou avec un logiciel de nettoyage. Toujours vérifier si l’application n’est pas en cours d’exécution avant de la désinstaller pour éviter les erreurs.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677422/433ec9bbbf4424e33aac0380650fb476.mp4",
+                    "isExterne": true
+                },
+                {
+                    "id": 15,
+                    "name": "Formation Réparation d'ordinateur - FORMATAGE WINDOWS 10",
+                    "description": "Pour formater un ordinateur sous Windows 10, commencer par sauvegarder les données importantes car le formatage efface tout le contenu du disque. Insérer une clé USB bootable avec l’image d’installation de Windows 10 et redémarrer l’ordinateur en accédant au BIOS en appuyant sur une touche comme F2, F12, DEL ou ESC selon le fabricant. Modifier l’ordre de démarrage pour que l’ordinateur démarre sur la clé USB, enregistrer les changements et redémarrer. Lorsque l’installation de Windows 10 démarre, sélectionner la langue, le fuseau horaire et le clavier, puis cliquer sur installer maintenant. Choisir l’option personnaliser pour accéder au gestionnaire de partitions, supprimer les partitions existantes du disque cible et créer une nouvelle partition pour l’installation. Sélectionner la partition créée et lancer l’installation de Windows 10. Une fois l’installation terminée, l’ordinateur redémarre et affiche l’écran de configuration où il faut choisir les paramètres de base comme le compte utilisateur, la connexion réseau et la confidentialité. Après l’installation, mettre à jour les pilotes via Windows Update ou en téléchargeant les pilotes depuis le site du fabricant pour assurer la compatibilité et le bon fonctionnement du matériel. Installer les logiciels nécessaires et restaurer les données sauvegardées si besoin. Vérifier enfin que le système est activé et optimiser les paramètres pour améliorer les performances.",
+                    "url": "https://res.cloudinary.com/da2buxzcw/video/upload/v1738677530/hsiwegwldvtqas57fyp0.mp4",
+                    "isExterne": true
+                }
+            ],
+            "resources": [
+                {
+                    "id": 1,
+                    "name": "Maîtriser Microsoft PowerPoint",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "Maîtriser Microsoft PowerPoint.pdf"
+                },
+                {
+                    "id": 2,
+                    "name": "INITIATION POWERPOINT",
+                    "type": "pdf",
+                    "size": "83kb",
+                    "url": "INITIATION POWERPOINT.pdf"
+                }
+            ]  
         }
     ]
 }
