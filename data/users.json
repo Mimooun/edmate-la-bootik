@@ -18355,27 +18355,7 @@
             "endDate": "06-02-2024",
             "durations": 10
         },
-        {
-            "id": 40190539403,
-            "name": "ROUGET PAUL",
-            "firstname": "PAUL",
-            "lastname": "ROUGET",
-            "email": "paul.rouget@gmail.com",
-            "password": "rougetpaul2024@",
-            "imageUrl": "",
-            "formations": [
-                13
-            ],
-            "diploma": "TP installateur d\u00e9panneur en informatique",
-            "birthCity": "",
-            "birthDate": null,
-            "phoneNumber": "",
-            "address": "",
-            "discution": [],
-            "startDate": "06-01-2023",
-            "endDate": "01-12-2023",
-            "durations": 20
-        },
+        
         {
             "id": 40191048305,
             "name": "OTSMANE GHALEM",

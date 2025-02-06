@@ -28,6 +28,73 @@
 /* Font Family*/
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
 /* ========================= Variable Css Start ======================== */
+
+.feedback-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.feedback-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+    flex: 1 1 150px;
+    max-width: 150px;
+}
+.feedback-item:hover {
+    transform: scale(1.1);
+}
+.feedback-item img {
+    width: 50px;
+    height: 50px;
+}
+.feedback-label {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #6c757d;
+    font-weight: bold;
+}
+.popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+.popup {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.popup button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    border: none;
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+@media (max-width: 600px) {
+    .feedback-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .feedback-item {
+        max-width: 100%;
+    }
+}
 :root {
   /* Font Family Variable */
     --heading-font: "Urbanist", sans-serif;
