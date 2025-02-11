@@ -1,0 +1,664 @@
+{
+    "formations": [
+        {
+            "id": 12,
+            "name": "CCP1 INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
+            "categoryName": "INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+            "modules": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP1 Module 1",
+                    "chapitres": [
+                        {
+                            "id": 1,
+                            "name": "Les différents systèmes d'exploitation",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/1-Les différents systèmes d'exploitation.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Bis-Deployer une image iso",
+                            "description": "chapitre description",
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/DEPLOYER UNE IMAGE ISO A L'AIDE DE MEDIA CREATION TOOL.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Présentation Bios et uefi",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e72dfeffaa787f1face05.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e72eea22da63411b54966.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e731feffaa787f1face07.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7305a22da63411b54967.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "name": "Raccorder les périphériques d'un équipement informatique",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e7a54d99ee647873be7de-2.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7a434dd3bc8fcf76e11e-2.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7a644c79c0b307c24d8a.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7a944a71ac89f79e7462.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7f6e41e5b2068929c98e.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7f7b83d40e9fa2bacf69.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7f8c328410634c571d74.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7f9e41e5b2068929c98f.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e7589046108ce3f5425f0.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "name": "Installer une application",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739266961/Installer_une_application_kdmmwb.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e8014f1ce435fc510bccd.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "name": "Désinstaller une application",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739267187/ueeenxbggjk3505a6bfk.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e804ff1ce435fc510bcce.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "name": "Architecture d'un système d'exploitation",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Jouer ce module - CCP1 - Module 1 - Installateur dépanneur informatique.pdf"
+                                }
+                            ],
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e80c7d9e7a62df69c2370.jpeg"
+                                }
+                            ]
+                            
+                        },
+                        {
+                            "id": 9,
+                            "name": "Les principes de base",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739267249/aypcemngtc98ams1uezz.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e80ee41e5b2068929c990.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e80ff601c9723172c49d5.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e810a43167e02249ce1d6.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e811f601c9723172c49d6.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e813a43167e02249ce1d7.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e811241e5b2068929c991.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e814241e5b2068929c992.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "name": "La recette des postes clients",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/63516ad9bab1a66d6069c625.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "name": "Comment optimiser son activité",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/63516b0ad57e8b0d00acb980-2.jpeg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+
+
+
+                
+                {
+                    "id": 2,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP1 Module 2",
+                    "chapitres": [
+                        {
+                            "id": 1,
+                            "name": "Sensibilisation et initiation à la cybersécurité",
+                            "description": "chapitre description",
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Sensibilisation et initiation à la cybersécurité.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Création de compte",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739267405/teroiiuggzejciyzuk4s.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/CRÉATION DE COMPTE.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Système d'exploitation mobile",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/SYSTÈME D'EXPLOITATION MOBILE.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Transmission des informations",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Transmission des informations.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+
+                {
+                    "id": 3,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP1 Module 3",
+                    "chapitres": [
+                        {
+                            "id": 1,
+                            "name": "Les differents types de connexion",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634e86d0c2ca81c168ac585c.jpeg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e86db4dd3bc8fcf76e129.jpeg"
+                                },
+                                {
+                                    "url": "assets/images/module1/634e86e683d40e9fa2bacf71.jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Configurer une adresse ip",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268149/umnawto7vvue8qtg3yxw.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Configurer une adresse ip.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Brasser et tester un réseau filaire",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268211/qhmfkl6kuflvikfmbegh.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/C634ea13ab98f2d7c4ae58571.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Configurer un service d'allocation",
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Jouer ce module - CCP1 - Module 3 - Installateur dépanneur informatique.pdf"
+                                }
+                            ],
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634ea194b98f2d7c4ae58573.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "name": "Raccorder, configurer, tester la connexion d’un équipement numérique au réseau",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268265/sz0cw7aq9lkhsq1inc95.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634ea1fd4175ababd9e982d2.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "name": "Informer des clients ou utilisateurs des principes associés au service cloud",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/634ea2c58a9b2d674986280a.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "name": "Création et utilisation dans DropBox",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Jouer ce module - CCP1 - Module 3 - Installateur dépanneur informatique..pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+
+
+
+                {
+                    "id": 4,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP1 Module 4",
+                    "chapitres": [
+                        {
+                            "id": 1,
+                            "name": "Accueillir et comprendre les besoins",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Accueillir et comprendre les besoins.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Etablir un devis ou une facture",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/devis_vs_facture-1.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Gerer une situation de stress",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Gerer une situation de stress.jpg"
+                                },
+                                {
+                                    "url": "assets/images/module1/gestion-stress.jpeg"
+                                }
+                                
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Navigateur et messagerie",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Navigateur et messagerie.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "name": "Qu'est ce qu'un tableur _",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Qu'est ce qu'un tableur.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "name": "Qu'est ce qu'un traitement de texte ",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/Qu'est ce qu'un traitement de texte.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "resources": [
+                
+            ]
+        },
+
+        {
+            "id": 13,
+            "name": "CCP2 INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
+            "categoryName": "CCP2 INSTALLATEUR DEPANNEUR INFORMATIQUE",
+            "categoryId": 3,
+            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+            "modules": [
+                {
+                    "id": 1,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP2 Module 1",
+                    "chapitres": [
+                        {
+                            "id": 1,
+                            "name": "Programme CCP2",
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Programme CCP2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Module 1  Niveau 1  Mister Phony Présentation",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268403/w1awacfarkiv9vkmr0eq.mp4",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/image.jpg"
+                                }
+                            ]
+                            
+                        },
+                        {
+                            "id": 3,
+                            "name": "Module 1 - Niveau 1  Mister Phony Le Lexique",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268453/wn4zpf5ok8zs5waiol24.mp4",
+                            "isExterne": true,
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Le Lexique (part 1).pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Le Lexique (part 2).pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Le Lexique (pa t 4).pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Le Lexique (part 4).pdf"
+                                }
+                               
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Module 1 Niveau 1 Mister Phony  Les pièces détachées",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268517/ccigok2au6sm8urnifrz.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 5,
+                            "name": "Schéma Iphone 5S",
+                            "description": "chapitre description",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/iphone5s.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "name": "Schéma nappe",
+                            "description": "chapitre description",
+                            "isExterne": true,
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/schéma nappe.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "name": "Module 1 Niveau 1 Mister Phony Les outils",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268626/smev3a7trbvunsssszt9.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 8,
+                            "name": "Module 1 Niveau 1 Mister Phony Le Diagnostic",
+                            "description": "chapitre description",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268676/jvdehxwijvat1rjwb95n.mp4",
+                            "isExterne": true,
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/Diagnostic 1.pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Diagnostic 2.pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Diagnostic 3.pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Diagnostic 4.pdf"
+                                },
+                                {
+                                    "url": "assets/images/module1/Diagnostic 5.pdf"
+                                }
+                            ]
+                            
+                            
+                        },
+                        {
+                            "id": 9,
+                            "name": "Niveau 1 les différentes causes de pannes",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739268740/nlybnkkmipujzi1oxawv.mp4",
+                            "isExterne": true
+                            
+                        },
+                        {
+                            "id": 10,
+                            "name": "Module 1 Niveau 1 Mister Phony  Changement d'écran iPhone",
+                            "description": "chapitre description",
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/changement iphone.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+
+                {
+                    "id": 2,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP2 Module 2",
+                    "chapitres": [
+                        {
+                            "id": 11,
+                            "name": "Module 1 Niveau 1 Mister Phony  Changement d'écran iPhone 6",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292485/njyuxp8bf4evwexjxwnk.mp4",
+                            "isExterne": true
+                           
+                        },
+                        {
+                            "id": 12,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement d'écran iPhone 8 Plus",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292546/rf7yds7jv9cfjyhrfjz0.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 13,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement de la batterie iPhone X",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292607/a8oznezaxh2ynl4tolc1.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 14,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement de batterie iPhone",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/schéma nappe.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 15,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement de batterie iPhone 6",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292719/qelrmki9oggvgwhvbzfi.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 16,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement de batterie iPhone 8 Plus",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739293912/obv2p6wmvj053bafaneh.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 17,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement du connecteur de chargement iPhone X",
+                            "url": "",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 18,
+                            "name": "Module 1  Niveau 1  Mister Phony Changement du connecteur de charge iPhone",
+                            "images": [
+                                {
+                                    "url": "assets/images/module1/changement.jpg"
+                                }
+                            ]
+                            
+                        },
+                        {
+                            "id": 19,
+                            "name": "Module 1  Niveau 1  Mister Phony  Changement du connecteur de charge iPhone 6",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739293105/co62xeb8pipowunxctvo.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 20,
+                            "name": "Module 1  Niveau 1  Mister Phony  Changement du connecteur de charge iPhone 8 Plus",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739293050/fbe6kaklvk1ze3yc2wj0.mp4",
+                            "isExterne": true
+                        }
+                    ]
+                },
+                
+                
+                {
+                    "id": 3,
+                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "name": "CCP2 Module 3",
+                    "chapitres": [
+                        {
+                            "id": 1,
+                            "name": "Démontage et montage complet android 1er procédure",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292485/njyuxp8bf4evwexjxwnk.mp4",
+                            "isExterne": true
+                           
+                        },
+                        {
+                            "id": 2,
+                            "name": "Démontage et montage complet android 2ème procédure",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292546/rf7yds7jv9cfjyhrfjz0.mp4",
+                            "isExterne": true
+                        },
+                        {
+                            "id": 3,
+                            "name": "Introduction aux tablettes",
+                            "url": "https://res.cloudinary.com/dfw7kwhgm/video/upload/v1739292546/rf7yds7jv9cfjyhrfjz0.mp4",
+                            "isExterne": true
+                        }
+                    ]
+                }
+            ],
+            "resources": [
+                
+            ]
+        }
+    ]
+}

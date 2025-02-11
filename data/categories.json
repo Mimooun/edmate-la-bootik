@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Électricien d'équipement du Bâtiment",
+            "description": "Installation et maintenance des équipements électriques dans les bâtiments résidentiels et commerciaux.",
+            "count": "12"
+        },
+        {
+            "id": 2,
+            "name": "Powerpoint",
+            "description": "Installation et entretien des systèmes de plomberie et de chauffage.",
+            "count": "8"
+        },
+        {
+            "id": 3,
+            "name": "Indesign",
+            "description": "Fabrication et installation d'éléments en bois pour le bâtiment et l'ameublement.",
+            "count": "10"
+        },
+        {
+            "id": 4,
+            "name": "Peintre en bâtiment",
+            "description": "Application de revêtements muraux et de peinture pour l'esthétique et la protection.",
+            "count": "6"
+        }
+    ]
+}
