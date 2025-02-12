@@ -14,7 +14,7 @@ $(document).ready(function () {
           const resourcesHtml = formation.resources
             .map((resource, resourceIndex) => {
               return `
-                    <a href="assets/resources/${resource.url}" target="_blank">
+                    <a href="${resource.url}" target="_blank">
                       <div class="resource-item" class="fixed-width">
                           <label for="checkbox1" class="cursor-pointer">
                               <span class="d-block mb-16 d-flex align-items-center justify-content-center"><img src="assets/images/thumbs/pdf-file.png" alt=""></span>
