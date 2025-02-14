@@ -24,13 +24,15 @@ $(document).ready(function () {
               <span class="circle flex-shrink-0 text-32 d-flex text-gray-100"><i class="ph ph-circle"></i></span>
               <div class="w-100">
                 <a href="?${new URLSearchParams({
-                  ...Object.fromEntries(
-                    new URLSearchParams(window.location.search)
-                  ),
-                  chapitreId: chapitre.id,
-                }).toString()}" 
+            ...Object.fromEntries(
+              new URLSearchParams(window.location.search)
+            ),
+            chapitreId: chapitre.id,
+          }).toString()}" 
                 class="text-gray-300 fw-medium d-block hover-text-main-600 d-lg-block">
                   ${index + 1}. ${chapitre.name}
+                  <br>
+                  <div class="text-gray-300 fw-medium d-block hover-text-main-600 d-lg-block text-end"> ✅ Réussi</div>
                 </a>
               </div>
             </li>
@@ -58,6 +60,7 @@ $(document).ready(function () {
                           <label for="checkbox1" class="cursor-pointer">
                               <span class="d-block mb-16 d-flex align-items-center justify-content-center"><img src="assets/images/thumbs/pdf-file.png" alt=""></span>
                               <span class="text-center d-block text-gray-400 text-15">${resource.name}</span>
+                              
                           </label>
                       </div>
                     </a>
@@ -87,6 +90,17 @@ $(document).ready(function () {
           </object>`);
         });
       }
+      if (chapitre.link && chapitre.link.length > 0) {
+        chapitre.link.forEach((link) => {
+            if (!link.url.includes(".mp4") && !link.url.includes("youtube") && !link.url.includes("vimeo")) {
+                window.open(link.url, "_blank");
+            }
+        });
+    }
+    
+      
+      
+
 
       const thumbnailUrl = chapitre?.isExterne
         ? chapitre.thumbnail

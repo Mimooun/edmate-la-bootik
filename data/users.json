@@ -22,27 +22,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "13/12/2022 09:51",
                     "from": "user02",
                     "message": "Je n'arrive pas à accéder à l'exercice 2."
                 },
                 {
-                    "date": "30/04/2024 09:15",
+                    "date": "13/12/2022 09:58",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous décrire l'erreur que vous rencontrez lorsque vous essayez d'accéder à l'exercice ?"
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "13/12/2022 10:09",
                     "from": "user02",
                     "message": "L'écran reste blanc, je ne vois pas l'exercice."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "13/12/2022 10:23",
                     "from": "support",
                     "message": "Merci pour la précision. Essayez de vider le cache de votre navigateur et réessayez."
                 },
                 {
-                    "date": "30/04/2024 09:30",
+                    "date": "13/12/2022 10:41",
                     "from": "user02",
                     "message": "C'est bon, ça marche maintenant ! Merci !"
                 }
@@ -69,27 +69,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 07:40",
+                    "date": "30/01/2024 07:40",
                     "from": "user11",
                     "message": "L'exercice 5 ne se charge pas, que faire ?"
                 },
                 {
-                    "date": "30/04/2024 07:45",
+                    "date": "30/01/2024 09:13",
                     "from": "support",
                     "message": "Essayez de recharger la page et d'utiliser un autre réseau si possible."
                 },
                 {
-                    "date": "30/04/2024 07:50",
+                    "date": "30/01/2024 09:19",
                     "from": "user11",
                     "message": "J'ai essayé, mais cela ne fonctionne toujours pas."
                 },
                 {
-                    "date": "30/04/2024 07:55",
+                    "date": "30/01/2024 09:41",
                     "from": "support",
                     "message": "Cela pourrait être un problème avec la connexion au serveur. Nous allons vérifier."
                 },
                 {
-                    "date": "30/04/2024 08:00",
+                    "date": "30/01/2024 09:53",
                     "from": "user11",
                     "message": "Merci pour votre réactivité, ça fonctionne maintenant."
                 }
@@ -116,27 +116,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 07:50",
+                    "date": "10/01/2023 11:28",
                     "from": "user10",
                     "message": "Les vidéos ne sont pas synchronisées avec le son."
                 },
                 {
-                    "date": "30/04/2024 07:55",
+                    "date": "10/01/2023 11:35",
                     "from": "support",
                     "message": "Bonjour, cela peut être un problème de connexion. Essayez de réduire la qualité vidéo."
                 },
                 {
-                    "date": "30/04/2024 08:00",
+                    "date": "10/01/2023 11:46",
                     "from": "user10",
                     "message": "C'est mieux, mais ce n'est toujours pas parfait."
                 },
                 {
-                    "date": "30/04/2024 08:05",
+                    "date": "10/01/2023 11:51",
                     "from": "support",
                     "message": "Essayez de fermer les autres onglets et de réessayer."
                 },
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "10/01/2023 12:10",
                     "from": "user10",
                     "message": "C'est parfait maintenant. Merci !"
                 }
@@ -163,27 +163,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 08:00",
+                    "date": "29/12/2024 10:15",
                     "from": "user09",
                     "message": "Je ne peux pas télécharger l'exercice."
                 },
                 {
-                    "date": "30/04/2024 08:05",
+                    "date": "29/12/2024 10/23",
                     "from": "support",
                     "message": "Bonjour, essayez de vérifier si vous avez suffisamment d'espace sur votre disque dur."
                 },
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "29/12/2024 10/32",
                     "from": "user09",
                     "message": "Oui, j'ai assez d'espace, mais cela reste bloqué à 50%."
                 },
                 {
-                    "date": "30/04/2024 08:15",
+                    "date": "29/12/2024 10:37",
                     "from": "support",
                     "message": "Essayez de désactiver votre antivirus et réessayez."
                 },
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "29/12/2024 10:42",
                     "from": "user09",
                     "message": "Ça a fonctionné, merci !"
                 }
@@ -210,27 +210,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "07/07/2024 09:10",
                     "from": "user08",
                     "message": "Les exercices ne se lancent pas."
                 },
                 {
-                    "date": "30/04/2024 08:15",
+                    "date": "07/07/2024 09:15",
                     "from": "support",
                     "message": "Bonjour, essayez de vider le cache de votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "07/07/2024 09:21",
                     "from": "user08",
                     "message": "J'ai essayé, mais ça ne fonctionne pas."
                 },
                 {
-                    "date": "30/04/2024 08:25",
+                    "date": "07/07/2024 09:25",
                     "from": "support",
                     "message": "Essayez d'utiliser un autre navigateur pour accéder aux exercices."
                 },
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "07/07/2024 09:34",
                     "from": "user08",
                     "message": "Ça fonctionne avec Firefox. Merci !"
                 }
@@ -257,27 +257,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "10/07/2023 10:20",
                     "from": "user07",
                     "message": "Je n'arrive pas à soumettre l'exercice 1."
                 },
                 {
-                    "date": "30/04/2024 08:25",
+                    "date": "10/07/2023 10:25",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous nous dire si vous obtenez un message d'erreur ?"
                 },
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "10/07/2023 10:38",
                     "from": "user07",
                     "message": "Oui, un message apparaît disant 'Échec de la soumission'."
                 },
                 {
-                    "date": "30/04/2024 08:35",
+                    "date": "10/07/2023 10:43",
                     "from": "support",
                     "message": "Essayez de soumettre à nouveau après avoir actualisé la page."
                 },
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "10/07/2023 10:48",
                     "from": "user07",
                     "message": "Ça marche, merci !"
                 }
@@ -304,27 +304,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "13/11/2023 09:36",
                     "from": "user06",
                     "message": "Le module 2 ne se charge pas du tout."
                 },
                 {
-                    "date": "30/04/2024 08:35",
+                    "date": "13/11/2023 09:45",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous vérifier si vous avez accès à d'autres modules ?"
                 },
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "13/11/2023 09:51",
                     "from": "user06",
                     "message": "Non, rien ne se charge."
                 },
                 {
-                    "date": "30/04/2024 08:45",
+                    "date": "13/11/2023 10:09",
                     "from": "support",
                     "message": "Il semble y avoir un problème avec votre session. Essayez de vous déconnecter puis reconnecter."
                 },
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "13/11/2023 10:13",
                     "from": "user06",
                     "message": "Ça fonctionne après m'être déconnecté, merci beaucoup !"
                 }
@@ -351,27 +351,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "19/12/2023 09:40",
                     "from": "user05",
                     "message": "Les vidéos ne se lancent pas, j'ai un écran noir."
                 },
                 {
-                    "date": "30/04/2024 08:45",
+                    "date": "19/12/2023 09:48",
                     "from": "support",
                     "message": "Bonjour, essayez de mettre à jour votre navigateur et réessayez."
                 },
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "19/12/2023 09:53",
                     "from": "user05",
                     "message": "J'ai essayé mais ça ne fonctionne toujours pas."
                 },
                 {
-                    "date": "30/04/2024 08:55",
+                    "date": "19/12/2023 09:58",
                     "from": "support",
                     "message": "Essayez de vider le cache et les cookies de votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 09:00",
+                    "date": "19/12/2023 10:11",
                     "from": "user05",
                     "message": "C'est bon maintenant, merci !"
                 }
@@ -399,27 +399,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "03/01/2024 08:50",
                     "from": "user04",
                     "message": "Impossible d'accéder à l'exercice 3."
                 },
                 {
-                    "date": "30/04/2024 08:55",
+                    "date": "03/01/2024 09:16",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous vérifier si votre connexion internet est stable ?"
                 },
                 {
-                    "date": "30/04/2024 09:00",
+                    "date": "03/01/2024 09:22",
                     "from": "user04",
                     "message": "La connexion est stable, mais la page ne se charge pas."
                 },
                 {
-                    "date": "30/04/2024 09:05",
+                    "date": "03/01/2024 09:29",
                     "from": "support",
                     "message": "Essayez de désactiver les extensions du navigateur et de réessayer."
                 },
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "03/01/2024 09:35",
                     "from": "user04",
                     "message": "C'est bon maintenant, merci pour l'astuce."
                 }
@@ -446,27 +446,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 09:05",
+                    "date": "12/02/2024 13:18",
                     "from": "user03",
                     "message": "Je n'arrive pas à ouvrir les vidéos du module 1."
                 },
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "12/02/2024 14:03",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous préciser quel type d'erreur vous voyez ?"
                 },
                 {
-                    "date": "30/04/2024 09:12",
+                    "date": "12/02/2024 14:09",
                     "from": "user03",
                     "message": "L'écran se fige après avoir cliqué sur la vidéo."
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "12/02/2024 15:18",
                     "from": "support",
                     "message": "Il semble y avoir un problème avec le lecteur vidéo. Essayez de redémarrer votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "12/02/2024 15:27",
                     "from": "user03",
                     "message": "Ça marche maintenant ! Merci pour votre aide."
                 }
@@ -493,27 +493,27 @@
             "durations": 10,
             "discution": [
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "06/05/2024 12:06",
                     "from": "user02",
                     "message": "Je n'arrive pas à accéder à l'exercice 2."
                 },
                 {
-                    "date": "30/04/2024 09:15",
+                    "date": "06/05/2024 12:15",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous décrire l'erreur que vous rencontrez lorsque vous essayez d'accéder à l'exercice ?"
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "06/05/2024  12:31",
                     "from": "user02",
                     "message": "L'écran reste blanc, je ne vois pas l'exercice."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "06/05/2024  12:45",
                     "from": "support",
                     "message": "Merci pour la précision. Essayez de vider le cache de votre navigateur et réessayez."
                 },
                 {
-                    "date": "30/04/2024 09:30",
+                    "date": "06/05/2024  13:08",
                     "from": "user02",
                     "message": "C'est bon, ça marche maintenant ! Merci !"
                 }
@@ -541,27 +541,27 @@
             "durations": 23,
             "discution": [
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "18/11/2022 13:38",
                     "from": "user08",
                     "message": "Les exercices ne se lancent pas."
                 },
                 {
-                    "date": "30/04/2024 08:15",
+                    "date": "18/11/2022 13:46",
                     "from": "support",
                     "message": "Bonjour, essayez de vider le cache de votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "18/11/2022 13:52",
                     "from": "user08",
                     "message": "J'ai essayé, mais ça ne fonctionne pas."
                 },
                 {
-                    "date": "30/04/2024 08:25",
+                    "date": "18/11/2022 14:09",
                     "from": "support",
                     "message": "Essayez d'utiliser un autre navigateur pour accéder aux exercices."
                 },
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "18/11/2022 14:19",
                     "from": "user08",
                     "message": "Ça fonctionne avec Firefox. Merci !"
                 }
@@ -589,27 +589,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "09/01/2023 09:20",
                     "from": "user07",
                     "message": "Je n'arrive pas à soumettre l'exercice 1."
                 },
                 {
-                    "date": "30/04/2024 08:25",
+                    "date": "09/01/2023 09:25",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous nous dire si vous obtenez un message d'erreur ?"
                 },
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "09/01/2023 10:30",
                     "from": "user07",
                     "message": "Oui, un message apparaît disant 'Échec de la soumission'."
                 },
                 {
-                    "date": "30/04/2024 08:35",
+                    "date": "09/01/2023 10:38",
                     "from": "support",
                     "message": "Essayez de soumettre à nouveau après avoir actualisé la page."
                 },
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "09/01/2023 10:42",
                     "from": "user07",
                     "message": "Ça marche, merci !"
                 }
@@ -637,27 +637,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "17/01/2023 09:33",
                     "from": "user06",
                     "message": "Le module 2 ne se charge pas du tout."
                 },
                 {
-                    "date": "30/04/2024 08:35",
+                    "date": "17/01/2023 09:38",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous vérifier si vous avez accès à d'autres modules ?"
                 },
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "17/01/2023 09:46",
                     "from": "user06",
                     "message": "Non, rien ne se charge."
                 },
                 {
-                    "date": "30/04/2024 08:45",
+                    "date": "17/01/2023 09:52",
                     "from": "support",
                     "message": "Il semble y avoir un problème avec votre session. Essayez de vous déconnecter puis reconnecter."
                 },
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "17/01/2023 10:09",
                     "from": "user06",
                     "message": "Ça fonctionne après m'être déconnecté, merci beaucoup !"
                 }
@@ -684,27 +684,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "13/04/2023 08:50",
                     "from": "user04",
                     "message": "Impossible d'accéder à l'exercice 3."
                 },
                 {
-                    "date": "30/04/2024 08:55",
+                    "date": "13/04/2023 09:10",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous vérifier si votre connexion internet est stable ?"
                 },
                 {
-                    "date": "30/04/2024 09:00",
+                    "date": "13/04/2023 09:19",
                     "from": "user04",
                     "message": "La connexion est stable, mais la page ne se charge pas."
                 },
                 {
-                    "date": "30/04/2024 09:05",
+                    "date": "13/04/2023 09:25",
                     "from": "support",
                     "message": "Essayez de désactiver les extensions du navigateur et de réessayer."
                 },
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "13/04/2023 09:37",
                     "from": "user04",
                     "message": "C'est bon maintenant, merci pour l'astuce."
                 }
@@ -731,27 +731,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 09:05",
+                    "date": "30/06/2023 09:05",
                     "from": "user03",
                     "message": "Je n'arrive pas à ouvrir les vidéos du module 1."
                 },
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "30/06/2023 09:22",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous préciser quel type d'erreur vous voyez ?"
                 },
                 {
-                    "date": "30/04/2024 09:12",
+                    "date": "30/06/2023 09:28",
                     "from": "user03",
                     "message": "L'écran se fige après avoir cliqué sur la vidéo."
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "30/06/2023 10:18",
                     "from": "support",
                     "message": "Il semble y avoir un problème avec le lecteur vidéo. Essayez de redémarrer votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "30/06/2023 10:25",
                     "from": "user03",
                     "message": "Ça marche maintenant ! Merci pour votre aide."
                 }
@@ -778,27 +778,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "10/07/2023 12:19",
                     "from": "user02",
                     "message": "Je n'arrive pas à accéder à l'exercice 2."
                 },
                 {
-                    "date": "30/04/2024 09:15",
+                    "date": "10/07/2023 12:24",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous décrire l'erreur que vous rencontrez lorsque vous essayez d'accéder à l'exercice ?"
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "10/07/2023 14:45",
                     "from": "user02",
                     "message": "L'écran reste blanc, je ne vois pas l'exercice."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "10/07/2023 15:09",
                     "from": "support",
                     "message": "Merci pour la précision. Essayez de vider le cache de votre navigateur et réessayez."
                 },
                 {
-                    "date": "30/04/2024 09:30",
+                    "date": "10/07/2023 15:15",
                     "from": "user02",
                     "message": "C'est bon, ça marche maintenant ! Merci !"
                 }
@@ -825,32 +825,32 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 09:14",
+                    "date": "09/10/2023 14:40",
                     "from": "user01",
                     "message": "Bonjour, les vidéos ne fonctionnent pas."
                 },
                 {
-                    "date": "30/04/2024 09:20",
+                    "date": "09/10/2023 15:20",
                     "from": "support",
                     "message": "Bonjour MAUD, merci de nous avoir contactés. Pouvez-vous nous donner plus de détails sur l'erreur que vous rencontrez ?"
                 },
                 {
-                    "date": "30/04/2024 09:22",
+                    "date": "09/10/2023 15:22",
                     "from": "user01",
                     "message": "Lorsque je clique sur la vidéo pour regarder le cours, cela ne fonctionne pas."
                 },
                 {
-                    "date": "30/04/2024 09:26",
+                    "date": "09/10/2023 15:36",
                     "from": "support",
                     "message": "Merci pour l'information. Nous allons vérifier cela pour vous. C'est juste un bug, rafraîchissez la page."
                 },
                 {
-                    "date": "30/04/2024 09:34",
+                    "date": "09/10/2023 15:41",
                     "from": "user01",
                     "message": "Merci beaucoup."
                 },
                 {
-                    "date": "30/04/2024 10:19",
+                    "date": "09/10/2023 15:53",
                     "from": "support",
                     "message": "Avec plaisir, MAUD ! Si vous avez d'autres questions, n'hésitez pas à nous contacter."
                 }
@@ -877,27 +877,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 07:50",
+                    "date": "03/01/2024 11:15",
                     "from": "user10",
                     "message": "Les vidéos ne sont pas synchronisées avec le son."
                 },
                 {
-                    "date": "30/04/2024 07:55",
+                    "date": "03/01/2024 11:29",
                     "from": "support",
                     "message": "Bonjour, cela peut être un problème de connexion. Essayez de réduire la qualité vidéo."
                 },
                 {
-                    "date": "30/04/2024 08:00",
+                    "date": "03/01/2024 11:34",
                     "from": "user10",
                     "message": "C'est mieux, mais ce n'est toujours pas parfait."
                 },
                 {
-                    "date": "30/04/2024 08:05",
+                    "date": "03/01/2024 11:39",
                     "from": "support",
                     "message": "Essayez de fermer les autres onglets et de réessayer."
                 },
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "03/01/2024 12:03",
                     "from": "user10",
                     "message": "C'est parfait maintenant. Merci !"
                 }
@@ -924,27 +924,27 @@
             "durations": 20,
             "discution": [
                 {
-                    "date": "30/04/2024 08:00",
+                    "date": "11/01/2024 09:40",
                     "from": "user09",
                     "message": "Je ne peux pas télécharger l'exercice."
                 },
                 {
-                    "date": "30/04/2024 08:05",
+                    "date": "11/01/2024 10:05",
                     "from": "support",
                     "message": "Bonjour, essayez de vérifier si vous avez suffisamment d'espace sur votre disque dur."
                 },
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "11/01/2024 10:16",
                     "from": "user09",
                     "message": "Oui, j'ai assez d'espace, mais cela reste bloqué à 50%."
                 },
                 {
-                    "date": "30/04/2024 08:15",
+                    "date": "11/01/2024 10:24",
                     "from": "support",
                     "message": "Essayez de désactiver votre antivirus et réessayez."
                 },
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "11/01/2024 10:31",
                     "from": "user09",
                     "message": "Ça a fonctionné, merci !"
                 }
@@ -971,27 +971,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 08:10",
+                    "date": "07/08/2024 09:22",
                     "from": "user08",
                     "message": "Les exercices ne se lancent pas."
                 },
                 {
-                    "date": "30/04/2024 08:15",
+                    "date": "30/04/2024 09:29",
                     "from": "support",
                     "message": "Bonjour, essayez de vider le cache de votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "30/04/2024 09:41",
                     "from": "user08",
                     "message": "J'ai essayé, mais ça ne fonctionne pas."
                 },
                 {
-                    "date": "30/04/2024 08:25",
+                    "date": "30/04/2024 09:49",
                     "from": "support",
                     "message": "Essayez d'utiliser un autre navigateur pour accéder aux exercices."
                 },
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "30/04/2024 09:56",
                     "from": "user08",
                     "message": "Ça fonctionne avec Firefox. Merci !"
                 }
@@ -1018,27 +1018,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 08:20",
+                    "date": "21/08/2024 11:20",
                     "from": "user07",
                     "message": "Je n'arrive pas à soumettre l'exercice 1."
                 },
                 {
-                    "date": "30/04/2024 08:25",
+                    "date": "21/08/2024 11:25",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous nous dire si vous obtenez un message d'erreur ?"
                 },
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "21/08/2024 11:39",
                     "from": "user07",
                     "message": "Oui, un message apparaît disant 'Échec de la soumission'."
                 },
                 {
-                    "date": "30/04/2024 08:35",
+                    "date": "21/08/2024 11:49",
                     "from": "support",
                     "message": "Essayez de soumettre à nouveau après avoir actualisé la page."
                 },
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "21/08/2024 11:52",
                     "from": "user07",
                     "message": "Ça marche, merci !"
                 }
@@ -1065,27 +1065,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 08:30",
+                    "date": "03/02/2023 10:30",
                     "from": "user06",
                     "message": "Le module 2 ne se charge pas du tout."
                 },
                 {
-                    "date": "30/04/2024 08:35",
+                    "date": "03/02/2023 10:36",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous vérifier si vous avez accès à d'autres modules ?"
                 },
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "03/02/2023 10:42",
                     "from": "user06",
                     "message": "Non, rien ne se charge."
                 },
                 {
-                    "date": "30/04/2024 08:45",
+                    "date": "03/02/2023 10:47",
                     "from": "support",
                     "message": "Il semble y avoir un problème avec votre session. Essayez de vous déconnecter puis reconnecter."
                 },
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "03/02/2023 11:09",
                     "from": "user06",
                     "message": "Ça fonctionne après m'être déconnecté, merci beaucoup !"
                 }
@@ -1113,27 +1113,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 08:40",
+                    "date": "09/05/2023 10:40",
                     "from": "user05",
                     "message": "Les vidéos ne se lancent pas, j'ai un écran noir."
                 },
                 {
-                    "date": "30/04/2024 08:45",
+                    "date": "09/05/2023 10:45",
                     "from": "support",
                     "message": "Bonjour, essayez de mettre à jour votre navigateur et réessayez."
                 },
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "09/05/2023 10:53",
                     "from": "user05",
                     "message": "J'ai essayé mais ça ne fonctionne toujours pas."
                 },
                 {
-                    "date": "30/04/2024 08:55",
+                    "date": "09/05/2023 11:05",
                     "from": "support",
                     "message": "Essayez de vider le cache et les cookies de votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 09:00",
+                    "date": "09/05/2023 11:19",
                     "from": "user05",
                     "message": "C'est bon maintenant, merci !"
                 }
@@ -1160,27 +1160,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 08:50",
+                    "date": "18/17/2023 10:10",
                     "from": "user04",
                     "message": "Impossible d'accéder à l'exercice 3."
                 },
                 {
-                    "date": "30/04/2024 08:55",
+                    "date": "18/17/2023 10:19",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous vérifier si votre connexion internet est stable ?"
                 },
                 {
-                    "date": "30/04/2024 09:00",
+                    "date": "18/17/2023 10:22",
                     "from": "user04",
                     "message": "La connexion est stable, mais la page ne se charge pas."
                 },
                 {
-                    "date": "30/04/2024 09:05",
+                    "date": "18/17/2023 10:29",
                     "from": "support",
                     "message": "Essayez de désactiver les extensions du navigateur et de réessayer."
                 },
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "18/17/2023 11:38",
                     "from": "user04",
                     "message": "C'est bon maintenant, merci pour l'astuce."
                 }
@@ -1208,27 +1208,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 09:05",
+                    "date": "09/08/2023 09:05",
                     "from": "user03",
                     "message": "Je n'arrive pas à ouvrir les vidéos du module 1."
                 },
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "09/08/2023 09:10",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous préciser quel type d'erreur vous voyez ?"
                 },
                 {
-                    "date": "30/04/2024 09:12",
+                    "date": "09/08/2023 09:19",
                     "from": "user03",
                     "message": "L'écran se fige après avoir cliqué sur la vidéo."
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "09/08/2023 09:22",
                     "from": "support",
                     "message": "Il semble y avoir un problème avec le lecteur vidéo. Essayez de redémarrer votre navigateur."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "09/08/2023 09:27",
                     "from": "user03",
                     "message": "Ça marche maintenant ! Merci pour votre aide."
                 }
@@ -1277,32 +1277,32 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "12/01/2024 12:18",
+                    "date": "04/12/2023 12:18",
                     "from": "user01",
                     "message": "Bonjour ,comment je fais pour passer l'entraînement"
                 },
                 {
-                    "date": "12/01/2024 12:25",
+                    "date": "04/12/2023 12:25",
                     "from": "support",
                     "message": "Bonjour LOUISE , merci de nous avoir contact\u00e9s. Pouvez-vous nous donner plus de d\u00e9tails sur l'erreur que vous rencontrez ?"
                 },
                 {
-                    "date": "12/01/2024 13:11",
+                    "date": "04/12/2023 13:11",
                     "from": "user01",
                     "message": "Lorsque je click pour passer l'entraînement il affiche pas la page je veux savoire pourquoi"
                 },
                 {
-                    "date": "12/01/2024 13:20",
+                    "date": "04/12/2023 13:20",
                     "from": "support",
                     "message": "Merci pour l'information. Nous allons v\u00e9rifier cela pour vous.pour mon cote tout et bien essayer de déconnecter et connecter svp"
                 },
                 {
-                    "date": "12/01/2024 13:46",
+                    "date": "04/12/2023 13:46",
                     "from": "user01",
                     "message": "Merci beaucoup ça fonctionne ."
                 },
                 {
-                    "date": "12/01/2024 14:09",
+                    "date": "04/12/2023 14:09",
                     "from": "support",
                     "message": "Avec plaisir, Si vous avez d'autres questions, n'h\u00e9sitez pas \u00e0 nous contacter."
                 }
@@ -1329,27 +1329,27 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 09:10",
+                    "date": "11/01/2024 09:10",
                     "from": "user02",
                     "message": "Je n'arrive pas à accéder à l'exercice 2."
                 },
                 {
-                    "date": "30/04/2024 09:15",
+                    "date": "11/01/2024 09:22",
                     "from": "support",
                     "message": "Bonjour, pouvez-vous décrire l'erreur que vous rencontrez lorsque vous essayez d'accéder à l'exercice ?"
                 },
                 {
-                    "date": "30/04/2024 09:18",
+                    "date": "11/01/2024 09:29",
                     "from": "user02",
                     "message": "L'écran reste blanc, je ne vois pas l'exercice."
                 },
                 {
-                    "date": "30/04/2024 09:25",
+                    "date": "11/01/2024 09:38",
                     "from": "support",
                     "message": "Merci pour la précision. Essayez de vider le cache de votre navigateur et réessayez."
                 },
                 {
-                    "date": "30/04/2024 09:30",
+                    "date": "11/01/2024 09:43",
                     "from": "user02",
                     "message": "C'est bon, ça marche maintenant ! Merci !"
                 }
@@ -1376,32 +1376,32 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "30/04/2024 09:14",
+                    "date": "07/03/2024 09:14",
                     "from": "user01",
                     "message": "Bonjour, les vidéos ne fonctionnent pas."
                 },
                 {
-                    "date": "30/04/2024 09:20",
+                    "date": "07/03/2024 09:20",
                     "from": "support",
                     "message": "Bonjour MAUD, merci de nous avoir contactés. Pouvez-vous nous donner plus de détails sur l'erreur que vous rencontrez ?"
                 },
                 {
-                    "date": "30/04/2024 09:22",
+                    "date": "07/03/2024 09:29",
                     "from": "user01",
                     "message": "Lorsque je clique sur la vidéo pour regarder le cours, cela ne fonctionne pas."
                 },
                 {
-                    "date": "30/04/2024 09:26",
+                    "date": "07/03/2024 09:31",
                     "from": "support",
                     "message": "Merci pour l'information. Nous allons vérifier cela pour vous. C'est juste un bug, rafraîchissez la page."
                 },
                 {
-                    "date": "30/04/2024 09:34",
+                    "date": "07/03/2024 09:39",
                     "from": "user01",
                     "message": "Merci beaucoup."
                 },
                 {
-                    "date": "30/04/2024 10:19",
+                    "date": "07/03/2024 10:19",
                     "from": "support",
                     "message": "Avec plaisir, MAUD ! Si vous avez d'autres questions, n'hésitez pas à nous contacter."
                 }
@@ -1481,32 +1481,32 @@
             "durations": 30,
             "discution": [
                 {
-                    "date": "06/05/2024 09:14",
+                    "date": "06/05/2024 10:14",
                     "from": "user01",
                     "message": "Bonjour, j'ai un probl\u00e8me avec mon compte.svp aider moi "
                 },
                 {
-                    "date": "06/05/2024 09:18",
+                    "date": "06/05/2024 10:18",
                     "from": "support",
                     "message": "Bonjour AMEL cava, merci de nous avoir contact\u00e9s. Pouvez-vous nous donner plus de d\u00e9tails sur l'erreur que vous rencontrez ?"
                 },
                 {
-                    "date": "06/05/2024 09:52",
+                    "date": "06/05/2024 11:14",
                     "from": "user01",
                     "message": "Lorsque je tente de me connecter, je veux change mes cordonées."
                 },
                 {
-                    "date": "06/05/2024 10:08",
+                    "date": "06/05/2024 11:22",
                     "from": "support",
                     "message": "Merci pour l'information. Nous allons v\u00e9rifier cela pour vous. Pouvez-vous essayer de connecter et modifie"
                 },
                 {
-                    "date": "07/05/2024 10:41",
+                    "date": "07/05/2024 11:33",
                     "from": "user01",
                     "message": "Merci beaucoup."
                 },
                 {
-                    "date": "07/05/2024 10:53",
+                    "date": "07/05/2024 11:41",
                     "from": "support",
                     "message": "Avec plaisir, AMEL ! Si vous avez d'autres questions, n'h\u00e9sitez pas \u00e0 nous contacter."
                 }

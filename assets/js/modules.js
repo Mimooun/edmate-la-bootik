@@ -31,10 +31,8 @@ $(document).ready(function () {
                                 </a>
                                 <div class="p-8">
                                     <span class="text-13 py-2 px-10 rounded-pill bg-success-50 text-success-600 mb-16">${formation.name}</span>
-                                    <h5 class="mb-0"><a href="modules.html?id=${module.id}" class="hover-text-main-600">${module.name}</a></h5>
-
-                                   
-                                                          
+                                    
+                                    <h5 class="mb-0"><a href="modules.html?id=${module.id}" class="hover-text-main-600">${module.name}</a></h5>                  
                                     <a href="course-details.html?formationId=${formation.id}&moduleId=${module.id}" class="btn btn-outline-main rounded-pill py-9 w-100 mt-24">Detail module</a>
                                 </div>
                             </div>

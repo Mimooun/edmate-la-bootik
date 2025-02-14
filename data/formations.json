@@ -13,13 +13,14 @@
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP1 Module 1",
                     "chapitres": [
+                        
                         {
                             "id": 1,
                             "name": "Les différents systèmes d'exploitation",
                             "description": "chapitre description",
                             "images": [
                                 {
-                                    "url": "assets/images/module1/1-Les différents systèmes d'exploitation.jpg"
+                                    "url": "assets/images/module1/exploitation.jpg"
                                 }
                             ]
                         },
@@ -457,12 +458,25 @@
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP2 Module 1",
                     "chapitres": [
+                        
                         {
                             "id": 1,
                             "name": "Programme CCP2",
+                            "sati" : "Réussi",
                             "pdfs": [
                                 {
                                     "url": "assets/images/module1/Programme CCP2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 54641,
+                            "name": "Entraînement - CCP1",
+                            "type": "link",
+                            "size": null,
+                            "link": [
+                                {
+                                    "url": "https://airtable.com/appZ72Cu1N4IeCf6Z/pagfEQBYsSgM40TW7/form"
                                 }
                             ]
                         },
@@ -573,6 +587,16 @@
                         {
                             "id": 10,
                             "name": "Module 1 Niveau 1 Mister Phony  Changement d'écran iPhone",
+                            "description": "chapitre description",
+                            "pdfs": [
+                                {
+                                    "url": "assets/images/module1/changement iphone.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "name": "Resultat",
                             "description": "chapitre description",
                             "pdfs": [
                                 {

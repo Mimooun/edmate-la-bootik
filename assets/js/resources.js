@@ -21,7 +21,10 @@ $(document).ready(function () {
                               <span class="text-center d-block text-gray-400 text-15">${resource.name}</span>
                           </label>
                       </div>
+                      <br>
+                              <span class="text-center d-block text-success fw-bold text-15">⭐ Réaliser le devoir</span>
                     </a>
+                    
                 `;
             })
             .join("");

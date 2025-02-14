@@ -4,6 +4,23 @@
   // ==========================================
   //      Start Document Ready function
   // ==========================================
+  // Vérifie si l'utilisateur a déjà accepté ou refusé les cookies
+if (!localStorage.getItem("cookiesAccepted")) {
+  document.getElementById("cookie-banner").style.display = "block";
+}
+
+// Fonction pour accepter les cookies
+document.getElementById("accept-cookies").addEventListener("click", function() {
+  localStorage.setItem("cookiesAccepted", "true");
+  document.getElementById("cookie-banner").style.display = "none"; // Masque la bannière après l'acceptation
+});
+
+// Fonction pour refuser les cookies
+document.getElementById("reject-cookies").addEventListener("click", function() {
+  localStorage.setItem("cookiesAccepted", "false");
+  document.getElementById("cookie-banner").style.display = "none"; // Masque la bannière après le refus
+});
+
   $(document).ready(function () {
     
     
