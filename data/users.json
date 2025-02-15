@@ -1,6 +1,33 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Admin",
+            "firstname": "",
+            "lastname": "",
+            "email": "labootik92100@gmail.com",
+            "password": "Labootikformation2022@",
+            "imageUrl": "",
+            "birthCity": "",
+            "birthDate": null,
+            "phoneNumber": "",
+            "address": "",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "name": "Admin",
+            "firstname": "",
+            "lastname": "",
+            "email": "formationlbtk@gmail.com",
+            "password": "Labootikformation2022@",
+            "imageUrl": "",
+            "birthCity": "",
+            "birthDate": null,
+            "phoneNumber": "",
+            "address": "",
+            "role": "admin"
+        },
         {
             "id": 40185524949,
             "name": "CAPOU PASCAL",
@@ -388,7 +415,6 @@
             "formations": [
                 12
             ],
-            
             "diploma": "TP installateur d\u00e9panneur en informatique",
             "birthCity": "",
             "birthDate": null,
@@ -535,7 +561,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "18-11-2022",
             "endDate": "25-11-2022",
             "durations": 23,
@@ -583,7 +608,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "09-01-2023",
             "endDate": "19-01-2023",
             "durations": 20,
@@ -631,7 +655,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-          
             "startDate": "17-01-2023",
             "endDate": "27-01-2023",
             "durations": 20,
@@ -1107,7 +1130,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "09-05-2023",
             "endDate": "23-05-2023",
             "durations": 30,
@@ -1202,7 +1224,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "09-08-2023",
             "endDate": "23-08-2023",
             "durations": 30,
@@ -1250,7 +1271,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "07-11-2023",
             "endDate": "21-11-2023",
             "durations": 30
@@ -1271,7 +1291,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "04-12-2023",
             "endDate": "18-12-2023",
             "durations": 30,
@@ -1423,7 +1442,6 @@
             "birthDate": null,
             "phoneNumber": "",
             "address": "",
-             
             "startDate": "30-04-2024",
             "endDate": "14-05-2024",
             "durations": 30,
