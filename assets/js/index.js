@@ -8,6 +8,16 @@ $(document).ready(function () {
     const user = localStorage.getItem("connectedUser");
     const parsedUser = JSON.parse(user);
 
+    const isAdmin = parsedUser.role === "admin";
+
+    if (isAdmin) {
+      document.getElementById("etudiant-menu").style.display = "none";
+      document.getElementById("admin-menu").style.display = "block";
+    } else {
+      document.getElementById("admin-menu").style.display = "none";
+      document.getElementById("etudiant-menu").style.display = "block";
+    }
+
     // Load user data from a JSON file
     fetch("../../data/formations.json")
       .then((response) => response.json())
