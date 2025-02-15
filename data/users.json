@@ -1,154 +1,13 @@
 {
-    "users": [
-        
-        {
-            "id": 40185524949,
-            "name": "CAPOU PASCAL",
-            "firstname": "PASCAL",
-            "lastname": "CAPOU",
-            "email": "pascal.capou@gmail.com",
-            "password": "Pascal256545!",
-            "imageUrl": "",
-            "formations": [
-                12
-            ],
-            "diploma": "TP installateur d\u00e9panneur en informatique",
-            "birthCity": "",
-            "birthDate": null,
-            "phoneNumber": "",
-            "address": "",
-            "startDate": "13-12-2022",
-            "endDate": "20-12-2022",
-            "durations": 10,
-            "discution": [
-                {
-                    "date": "13/12/2022 09:51",
-                    "from": "user02",
-                    "message": "Je n'arrive pas à accéder à l'exercice 2."
-                },
-                {
-                    "date": "13/12/2022 09:58",
-                    "from": "support",
-                    "message": "Bonjour, pouvez-vous décrire l'erreur que vous rencontrez lorsque vous essayez d'accéder à l'exercice ?"
-                },
-                {
-                    "date": "13/12/2022 10:09",
-                    "from": "user02",
-                    "message": "L'écran reste blanc, je ne vois pas l'exercice."
-                },
-                {
-                    "date": "13/12/2022 10:23",
-                    "from": "support",
-                    "message": "Merci pour la précision. Essayez de vider le cache de votre navigateur et réessayez."
-                },
-                {
-                    "date": "13/12/2022 10:41",
-                    "from": "user02",
-                    "message": "C'est bon, ça marche maintenant ! Merci !"
-                }
-            ]
-        },
-        {
-            "id": 42717517163,
-            "name": "BEYE ABDOULAYE",
-            "firstname": "ABDOULAYE",
-            "lastname": "BEYE",
-            "email": "abdoulaye.beye@gmail.com",
-            "password": "Abdo785469-",
-            "imageUrl": "",
-            "formations": [
-                12
-            ],
-            "diploma": "TP installateur d\u00e9panneur en informatique",
-            "birthCity": "",
-            "birthDate": null,
-            "phoneNumber": "",
-            "address": "",
-            "startDate": "30-01-2024",
-            "endDate": "06-02-2024",
-            "durations": 10,
-            "discution": [
-                {
-                    "date": "30/01/2024 07:40",
-                    "from": "user11",
-                    "message": "L'exercice 5 ne se charge pas, que faire ?"
-                },
-                {
-                    "date": "30/01/2024 09:13",
-                    "from": "support",
-                    "message": "Essayez de recharger la page et d'utiliser un autre réseau si possible."
-                },
-                {
-                    "date": "30/01/2024 09:19",
-                    "from": "user11",
-                    "message": "J'ai essayé, mais cela ne fonctionne toujours pas."
-                },
-                {
-                    "date": "30/01/2024 09:41",
-                    "from": "support",
-                    "message": "Cela pourrait être un problème avec la connexion au serveur. Nous allons vérifier."
-                },
-                {
-                    "date": "30/01/2024 09:53",
-                    "from": "user11",
-                    "message": "Merci pour votre réactivité, ça fonctionne maintenant."
-                }
-            ]
-        },
-        {
-            "id": 40191048305,
-            "name": "OTSMANE GHALEM",
-            "firstname": "GHALEM",
-            "lastname": "OTSMANE",
-            "email": "ghalem.otsmane@gmail.com",
-            "password": "Mama1967@",
-            "imageUrl": "",
-            "formations": [
-                15
-            ],
-            "diploma": "TP installateur d\u00e9panneur en informatique",
-            "birthCity": "",
-            "birthDate": null,
-            "phoneNumber": "",
-            "address": "",
-            "startDate": "10-01-2023",
-            "endDate": "24-01-2023",
-            "durations": 30,
-            "discution": [
-                {
-                    "date": "10/01/2023 11:28",
-                    "from": "user10",
-                    "message": "Les vidéos ne sont pas synchronisées avec le son."
-                },
-                {
-                    "date": "10/01/2023 11:35",
-                    "from": "support",
-                    "message": "Bonjour, cela peut être un problème de connexion. Essayez de réduire la qualité vidéo."
-                },
-                {
-                    "date": "10/01/2023 11:46",
-                    "from": "user10",
-                    "message": "C'est mieux, mais ce n'est toujours pas parfait."
-                },
-                {
-                    "date": "10/01/2023 11:51",
-                    "from": "support",
-                    "message": "Essayez de fermer les autres onglets et de réessayer."
-                },
-                {
-                    "date": "10/01/2023 12:10",
-                    "from": "user10",
-                    "message": "C'est parfait maintenant. Merci !"
-                }
-            ]
-        },
+    "users": [    
+       
         {
             "id": 40188283329,
             "name": "CAPOU PASCAL",
             "firstname": "PASCAL",
             "lastname": "CAPOU",
             "email": "pascal.capou@gmail.com",
-            "password": "red7866461",
+            "password": "Pascal256545!",
             "imageUrl": "",
             "formations": [
                 12
@@ -832,7 +691,7 @@
                 {
                     "date": "09/10/2023 15:20",
                     "from": "support",
-                    "message": "Bonjour MAUD, merci de nous avoir contactés. Pouvez-vous nous donner plus de détails sur l'erreur que vous rencontrez ?"
+                    "message": "Bonjour MELANIE, merci de nous avoir contactés. Pouvez-vous nous donner plus de détails sur l'erreur que vous rencontrez ?"
                 },
                 {
                     "date": "09/10/2023 15:22",
@@ -852,7 +711,7 @@
                 {
                     "date": "09/10/2023 15:53",
                     "from": "support",
-                    "message": "Avec plaisir, MAUD ! Si vous avez d'autres questions, n'hésitez pas à nous contacter."
+                    "message": "Avec plaisir, MELANIE ! Si vous avez d'autres questions, n'hésitez pas à nous contacter."
                 }
             ]
         },
@@ -961,7 +820,7 @@
             "formations": [
                 14
             ],
-            "diploma": "TP Agent de reconditionnement num\u00e9rique",
+            "diploma": "TP Agent de reconditionnement numérique",
             "birthCity": "",
             "birthDate": null,
             "phoneNumber": "",
@@ -1008,7 +867,7 @@
             "formations": [
                 14
             ],
-            "diploma": "TP Agent de reconditionnement num\u00e9rique",
+            "diploma": "TP Agent de reconditionnement numérique",
             "birthCity": "",
             "birthDate": null,
             "phoneNumber": "",
