@@ -32,7 +32,7 @@ $(document).ready(function () {
                   </td>
                   <td>
                       <div class="flex-align gap-8">
-                          <img src="assets/images/thumbs/student-img1.png" alt="" class="w-40 h-40 rounded-circle">
+                          
                           <span class="h6 mb-0 fw-medium text-gray-300">${
                             user.firstname
                           } ${user.lastname}</span>

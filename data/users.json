@@ -1,5 +1,34 @@
 {
-    "users": [    
+    "users": [ 
+        {
+            "id": 1,
+            "name": "Admin",
+            "firstname": "",
+            "lastname": "",
+            "email": "labootik92100@gmail.com",
+            "password": "Labootikformation2022@",
+            "imageUrl": "",
+            "birthCity": "",
+            "birthDate": null,
+            "phoneNumber": "",
+            "address": "",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "name": "Formateur",
+            "firstname": "",
+            "lastname": "",
+            "email": "formationlbtk@gmail.com",
+            "password": "Labootikformation2022@",
+            "imageUrl": "",
+            "birthCity": "",
+            "birthDate": null,
+            "phoneNumber": "",
+            "address": "",
+            "role": "admin"
+        },
+           
        
         {
             "id": 40188283329,
