@@ -450,11 +450,11 @@
             "description": "Apprenez à installer, configurer et connecter un équipement informatique, fixe ou mobile, en réseau Maîtrisez le déploiement d’images système, le paramétrage et l’assistance aux utilisateurs Un suivi rigoureux est assuré avec des examens blancs, des relances par e-mail et des visioconférences collectives pour vous préparer efficacement à la certification.",
             "categoryName": "CCP2 INSTALLATEUR DEPANNEUR INFORMATIQUE",
             "categoryId": 3,
-            "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+            "imageUrl": "https://res.cloudinary.com/dogg78xxl/image/upload/v1739664655/njqmcmbg7k2fmh9tsdsg.webp",
             "modules": [
                 {
                     "id": 1,
-                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "imageUrl": "https://res.cloudinary.com/dogg78xxl/image/upload/v1739664655/njqmcmbg7k2fmh9tsdsg.webp",
                     "name": "CCP2 Module 1",
                     "chapitres": [
                         
@@ -468,17 +468,7 @@
                                 }
                             ]
                         },
-                        {
-                            "id": 54641,
-                            "name": "Entraînement - CCP1",
-                            "type": "link",
-                            "size": null,
-                            "link": [
-                                {
-                                    "url": "https://airtable.com/appZ72Cu1N4IeCf6Z/pagfEQBYsSgM40TW7/form"
-                                }
-                            ]
-                        },
+                        
                         {
                             "id": 2,
                             "name": "Module 1  Niveau 1  Mister Phony Présentation",
@@ -609,7 +599,7 @@
 
                 {
                     "id": 2,
-                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "imageUrl": "https://res.cloudinary.com/dogg78xxl/image/upload/v1739664655/njqmcmbg7k2fmh9tsdsg.webp",
                     "name": "CCP2 Module 2",
                     "chapitres": [
                         {
@@ -686,7 +676,7 @@
                 
                 {
                     "id": 3,
-                    "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
+                    "imageUrl": "https://res.cloudinary.com/dogg78xxl/image/upload/v1739664655/njqmcmbg7k2fmh9tsdsg.webp",
                     "name": "CCP2 Module 3",
                     "chapitres": [
                         {
@@ -1182,7 +1172,7 @@
                     ]
                 },
                 {
-                    "id": 1,
+                    "id": 45,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP2 Module 1",
                     "chapitres": [
@@ -1313,7 +1303,7 @@
 
 
                 {
-                    "id": 2,
+                    "id": 24,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP2 Module 2",
                     "chapitres": [
@@ -1390,7 +1380,7 @@
                 
                 
                 {
-                    "id": 3,
+                    "id": 23,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP2 Module 3",
                     "chapitres": [
@@ -1696,7 +1686,7 @@
                     ]
                 },
                 {
-                    "id": 2,
+                    "id": 782,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP1 Module 2",
                     "chapitres": [
@@ -1746,7 +1736,7 @@
 
 
                 {
-                    "id": 3,
+                    "id": 37,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP1 Module 3",
                     "chapitres": [
@@ -1845,7 +1835,7 @@
 
 
                 {
-                    "id": 4,
+                    "id": 874,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP1 Module 4",
                     "chapitres": [
@@ -1919,7 +1909,7 @@
                     ]
                 },
                 {
-                    "id": 1,
+                    "id": 781,
                     "imageUrl": "https://res.cloudinary.com/da2buxzcw/image/upload/v1738598549/f3e904c5e55c84af5d05bf9ac75a9130.webp",
                     "name": "CCP2 Module 1",
                     "chapitres": [
